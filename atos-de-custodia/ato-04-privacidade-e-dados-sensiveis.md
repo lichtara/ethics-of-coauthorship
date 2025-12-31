@@ -1,15 +1,6 @@
-Perfeito, Débora.
-Agora entramos em um território delicado e absolutamente central.
-
----
-
 # ATO DE CUSTÓDIA 04
 
 ## Privacidade e Dados Sensíveis na Coautoria Humano–IA
-
-*(para `atos-de-custodia/ato-04-privacidade-e-dados-sensiveis.md`)*
-
----
 
 ### Preâmbulo
 
