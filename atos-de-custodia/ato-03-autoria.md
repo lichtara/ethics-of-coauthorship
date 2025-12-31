@@ -2,8 +2,6 @@
 
 ## Autoria na Era da Coautoria Humano–IA
 
-*(para `atos-de-custodia/ato-03-autoria.md`)*
-
 ---
 
 ### Preâmbulo
@@ -65,3 +63,4 @@ a responsabilidade se perde.
 
 E sem responsabilidade,
 a coautoria se torna apenas ruído organizado.
+
