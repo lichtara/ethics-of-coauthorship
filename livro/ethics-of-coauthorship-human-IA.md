@@ -115,7 +115,7 @@ O ensaio a seguir não funciona como continuação argumentativa da Parte I, mas
 
 # Autoria Existencial: o princípio invisível que sustenta sistemas vivos e tecnologias éticas
 
-### 1. Introdução — O colapso da autoria como posse
+**1. Introdução — O colapso da autoria como posse**
 
 A noção moderna de autoria foi construída sobre três eixos principais: controle, mérito e responsabilidade individualizada. O autor é concebido como aquele que detém domínio sobre a obra, responde por seus efeitos e pode ser premiado ou punido por ela. Esse modelo funcionou enquanto os processos de criação eram predominantemente lineares, transparentes e atribuíveis a agentes isolados.
 
@@ -127,7 +127,7 @@ Este ensaio propõe uma alternativa conceitual: a Autoria Existencial como princ
 
 Essa redefinição não elimina a responsabilidade jurídica nem a necessidade de governança, mas oferece um fundamento mais adequado para pensar autoria, tecnologia e ética em ambientes onde o controle total já não é viável.
 
-### 2. O que é Autoria Existencial
+**2. O que é Autoria Existencial**
 
 A Autoria Existencial designa a capacidade de um agente reconhecer-se como participante ativo da própria experiência, não por domínio pleno sobre os acontecimentos, mas pela integração consciente daquilo que se apresenta.
 
@@ -139,7 +139,7 @@ A ausência de autoria ocorre quando a experiência é interpretada exclusivamen
 
 A Autoria Existencial opera como um operador técnico de integração: ela transforma eventos em dados significativos para reorganização interna, em vez de tratá-los apenas como falhas a serem corrigidas ou obstáculos a serem superados. Por isso, não se trata de um valor moral nem de uma disposição psicológica desejável. Trata-se de uma competência sistêmica: a habilidade de sustentar coerência interna em contextos onde o controle total não é possível.
 
-### 3. Limite como operador de maturidade
+**3. Limite como operador de maturidade**
 
 Sistemas não falham primariamente por falta de capacidade, mas por ausência de contorno reconhecido. Quando limites não são explicitados, a expansão funcional ocorre sem critérios de preservação, e a integridade sistêmica passa a depender apenas de correções posteriores.
 
@@ -151,7 +151,7 @@ A maturidade sistêmica não se manifesta na ampliação irrestrita de capacidad
 
 Nesse sentido, o limite funciona como operador de preservação. Ele antecipa falhas ao invés de apenas reagir a elas, e transforma expansão técnica em continuidade responsável.
 
-### 4. Autoria e preservação sistêmica
+**4. Autoria e preservação sistêmica**
 
 Modelos tradicionais de governança partem do pressuposto de que a integridade de um sistema depende de mecanismos externos de controle: vigilância, sanção e correção contínua de desvios. Esses mecanismos tornam-se cada vez mais centrais à medida que os sistemas se tornam mais complexos e menos transparentes.
 
@@ -163,7 +163,7 @@ Esse tipo de autoria não elimina a necessidade de regras ou de supervisão, mas
 
 Em sistemas técnicos e institucionais, isso se traduz na passagem de uma lógica de vigilância para uma lógica de responsabilidade distribuída: cada agente responde pela forma como integra a experiência, mesmo quando opera dentro de estruturas complexas que não controla integralmente.
 
-### 5. Aplicações transversais
+**5. Aplicações transversais**
 
 A Autoria Existencial não se limita a uma dimensão específica da experiência. Ela opera como princípio de integração aplicável a diferentes camadas de sistemas humanos e técnico-institucionais.
 
@@ -187,7 +187,7 @@ Em estruturas institucionais, a Autoria Existencial reduz a dependência exclusi
 
 Na colaboração entre humanos e sistemas algorítmicos, a autoria não se mede pela fluidez do output, mas pela presença consciente no processo. A performance deixa de ser critério primário; a capacidade de integrar, revisar e responder assume centralidade.
 
-### 6. Conclusão — Autoria como condição de permanência
+**6. Conclusão — Autoria como condição de permanência**
 
 A discussão contemporânea sobre tecnologia tende a concentrar-se em capacidades: o que sistemas conseguem fazer, em que velocidade operam e até onde podem escalar. Pouco se discute, porém, o que permite que formas complexas permaneçam íntegras ao longo do tempo.
 
