@@ -67,11 +67,7 @@ Se esta pergunta ressoa em você, este livro já começou.
 
 Durante séculos, a autoria foi compreendida como uma relação direta entre sujeito e obra. Criar significava exercer domínio sobre um processo, responder por seus efeitos e, em última instância, ser reconhecido como origem legítima de algo que passa a existir no mundo.
 
-Esse modelo se sustentava sobre três pressupostos silenciosos:
-
-1. que o processo criativo era rastreável,
-2. que os efeitos de uma obra eram previsíveis,
-3. que a responsabilidade podia ser atribuída a um agente isolado.
+Esse modelo se sustentava sobre três pressupostos silenciosos: que o processo criativo era rastreável, que os efeitos de uma obra eram previsíveis e que a responsabilidade podia ser atribuída a um agente isolado.
 
 Nenhum desses pressupostos permanece intacto.
 
@@ -86,8 +82,8 @@ Quando não é mais possível identificar onde começa uma escolha e termina uma
 
 Este é o terreno onde a coautoria humano–IA se instala: não como inovação isolada, mas como intensificação de uma crise anterior. A tecnologia não inaugura o colapso, ela o torna visível.
 
-E é a partir dessa visibilidade que a pergunta central deste livro emerge:
-como reconstruir autoria quando a posse já não é suficiente para sustentá-la?
+E é a partir dessa visibilidade que a pergunta central deste livro emerge: como reconstruir autoria quando a posse já não é suficiente para sustentá-la?
+
 
 \newpage
 
@@ -143,6 +139,22 @@ Desfazer a ilusão da neutralidade não significa rejeitar a tecnologia, mas rec
 
 \newpage
 
+## Interlúdio
+
+### Do colapso à reconstrução
+
+A Parte I descreveu o esgotamento de um modelo: a autoria como posse, a neutralidade tecnológica como ficção e a transferência silenciosa de responsabilidade para sistemas opacos.
+
+Mas reconhecer o colapso não é suficiente.
+
+Se a autoria não pode mais ser sustentada como controle, mérito ou domínio exclusivo, torna-se necessário formular outro princípio capaz de preservar integridade em ambientes onde a criação é mediada por tecnologias complexas.
+
+O ensaio a seguir não funciona como continuação argumentativa da Parte I, mas como seu **eixo de reconstrução**. Ele introduz a Autoria Existencial como operador conceitual capaz de recolocar o humano em posição ativa dentro de sistemas que já não são inteiramente controláveis.
+
+A partir deste ponto, o livro deixa de apenas diagnosticar rupturas e passa a oferecer um princípio estruturante para pensar permanência, responsabilidade e coautoria humano–IA.
+
+\newpage
+
 # Autoria Existencial: o princípio invisível que sustenta sistemas vivos e tecnologias éticas
 
 ## 1. Introdução — O colapso da autoria como posse
@@ -160,12 +172,6 @@ Nesse contexto, proliferam respostas inadequadas: a diluição completa da autor
 Este ensaio propõe uma alternativa conceitual: a **Autoria Existencial** como princípio de integridade sistêmica. Em vez de definir autoria como domínio sobre resultados, ela a compreende como a capacidade de integrar experiência, reconhecer limites e assumir responsabilidade consciente dentro de sistemas complexos.
 
 Essa redefinição não elimina a responsabilidade jurídica nem a necessidade de governança, mas oferece um fundamento mais adequado para pensar autoria, tecnologia e ética em ambientes onde o controle total já não é viável.
-
-## 2. O que é Autoria Existencial
-
-Perfeito, vamos reformular este trecho eliminando completamente os bullets e preservando o tom técnico.
-
-Segue a versão pronta para substituir o bloco inteiro:
 
 ## 2. O que é Autoria Existencial
 
