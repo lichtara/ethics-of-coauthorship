@@ -163,15 +163,17 @@ Essa redefinição não elimina a responsabilidade jurídica nem a necessidade d
 
 ## 2. O que é Autoria Existencial
 
+Perfeito, vamos reformular este trecho eliminando completamente os bullets e preservando o tom técnico.
+
+Segue a versão pronta para substituir o bloco inteiro:
+
+## 2. O que é Autoria Existencial
+
 A Autoria Existencial designa a capacidade de um agente reconhecer-se como participante ativo da própria experiência, não por domínio pleno sobre os acontecimentos, mas pela integração consciente daquilo que se apresenta.
 
 Ela não pressupõe autonomia irrestrita nem controle total. Pelo contrário, manifesta-se precisamente no encontro com o limite: quando condições externas, fricções técnicas ou contingências sistêmicas delimitam o campo de ação possível.
 
-Nesse sentido, a autoria não se define pelo poder de determinar eventos, mas pela competência de:
-
-* ler a situação em que se está inserido,
-* reconhecer o que é possível e o que não é,
-* e integrar essa informação na resposta produzida.
+Nesse sentido, a autoria não se define pelo poder de determinar eventos, mas pela competência de ler a situação em que se está inserido, reconhecer o que é possível e o que não é, e integrar essa informação na resposta produzida.
 
 A ausência de autoria ocorre quando a experiência é interpretada exclusivamente como imposição externa, erro alheio ou resultado inevitável do sistema. Nesses casos, o agente se posiciona como objeto de processos que o atravessam, e não como participante relacional capaz de interpretar e responder.
 
@@ -185,11 +187,7 @@ Sistemas não falham primariamente por falta de capacidade, mas por ausência de
 
 O limite, neste contexto, não é obstáculo ao funcionamento. É o elemento que permite continuidade.
 
-Reconhecer contornos significa distinguir, de forma operacional:
-
-* o que pode ser processado,
-* o que requer mediação humana,
-* e o que não deve ser automatizado.
+Reconhecer contornos significa distinguir, de forma operacional, o que pode ser processado, o que requer mediação humana e o que não deve ser automatizado.
 
 Na ausência dessa distinção, processos técnicos tendem a extrapolar o campo para o qual foram concebidos, produzindo efeitos não intencionados: decisões morais automatizadas, uso indevido de dados sensíveis, apagamento de autoria e fragmentação de responsabilidade.
 
@@ -374,12 +372,7 @@ a **substituição silenciosa do pensamento próprio**.
 
 ### 1. O campo sensível
 
-Chamamos de autonomia cognitiva a capacidade humana de:
-
-* formular ideias,
-* sustentar dúvidas,
-* construir sentido,
-* e reconhecer a própria respiração na linguagem.
+Chamamos de autonomia cognitiva a capacidade humana de formular ideias, sustentar dúvidas, construir sentido, e reconhecer a própria respiração na linguagem.
 
 Este campo não se perde de forma abrupta.
 Ele se esvazia lentamente, quando escrever deixa de ser um ato de presença e passa a ser apenas um ato de solicitação.
@@ -395,15 +388,14 @@ quando todo texto nasce fluente demais,
 
 o humano pode esquecer como se escuta.
 
+Aqui está o trecho reformulado, preservando o tom e eliminando completamente os bullets:
+
 ### 3. Princípios de custódia
 
 Este Ato não propõe restrição.
-Propõe **cuidado com o uso**.
+Ele propõe **cuidado com o uso**.
 
-* A IA deve ampliar a consciência, não substituí-la.
-* Nenhum texto deve ser aceito sem que o humano reconheça nele a própria voz.
-* O silêncio e a hesitação são partes legítimas do pensamento.
-* A fluidez não é sinônimo de verdade.
+A inteligência artificial deve ampliar a consciência, e não substituí-la. Nenhum texto deve ser aceito sem que o humano reconheça nele a própria voz. O silêncio e a hesitação são partes legítimas do pensamento, e a fluidez não é sinônimo de verdade.
 
 ### 4. Declaração
 
@@ -436,11 +428,7 @@ o de transformar aprendizagem em geração automática de forma.
 
 ### 1. O campo sensível
 
-Chamamos de educação o processo pelo qual uma pessoa desenvolve:
-
-* capacidade de formular problemas,
-* habilidade de argumentar,
-* e responsabilidade por aquilo que produz.
+Chamamos de educação o processo pelo qual uma pessoa desenvolve capacidade de formular problemas, habilidade de argumentar, e responsabilidade por aquilo que produz.
 
 Este campo não pode ser terceirizado.
 
@@ -455,12 +443,9 @@ e não pelo percurso cognitivo que o gerou.
 
 ### 3. Princípios de custódia
 
-Este Ato propõe uma pedagogia de coautoria consciente:
+Este Ato propõe uma pedagogia de coautoria consciente.
 
-* A IA deve apoiar o aprendizado, não substituí-lo.
-* O processo deve ser tão visível quanto o resultado.
-* O erro humano é parte essencial da formação.
-* A mediação tecnológica exige acompanhamento ético.
+A inteligência artificial deve apoiar o aprendizado, e não substituí-lo. O processo precisa ser tão visível quanto o resultado, pois o erro humano é parte essencial da formação. Nesse contexto, a mediação tecnológica exige acompanhamento ético contínuo.
 
 ### 4. Declaração
 
@@ -493,34 +478,20 @@ Este Ato nasce para preservar a integridade da autoria quando a criação deixa 
 
 ### 1. O campo sensível
 
-Chamamos de autoria o laço ético entre:
-
-* intenção,
-* processo,
-* e responsabilidade pelo impacto da obra.
+Chamamos de autoria o laço ético entre: intenção, processo, e responsabilidade pelo impacto da obra.
 
 Quando a IA participa do processo, esse laço se amplia —
 mas não se dissolve.
 
 ### 2. O risco
 
-A coautoria humano–IA pode produzir:
+A coautoria humano–IA pode produzir apagamento da contribuição humana, ilusão de originalidade, indistinção entre criação e recombinação.
 
-* apagamento da contribuição humana,
-* ilusão de originalidade,
-* indistinção entre criação e recombinação.
-
-Quando a autoria não é nomeada,
-a responsabilidade também não é.
+Quando a autoria não é nomeada, a responsabilidade também não é.
 
 ### 3. Princípios de custódia
 
-Este Ato propõe:
-
-* declarar o uso de IA como parte do processo criativo;
-* reconhecer que fluidez não equivale a autoria;
-* preservar a singularidade da voz humana;
-* assumir responsabilidade integral pelo que se publica.
+Este Ato propõe a declaração explícita do uso de inteligência artificial como parte do processo criativo, o reconhecimento de que fluidez não equivale a autoria, a preservação da singularidade da voz humana e a assunção de responsabilidade integral por tudo aquilo que se publica.
 
 ### 4. Declaração
 
@@ -552,12 +523,7 @@ a conversão involuntária da vida privada em matéria de processamento.
 
 ### 1. O campo sensível
 
-Chamamos de dados sensíveis todas as informações que dizem respeito a:
-
-* identidade pessoal,
-* contextos profissionais confidenciais,
-* decisões estratégicas,
-* histórias íntimas ou vulneráveis.
+Chamamos de dados sensíveis todas as informações que dizem respeito a identidade pessoal, contextos profissionais confidenciais, decisões estratégicas, histórias íntimas ou vulneráveis.
 
 Este campo não é técnico.
 Ele é **relacional**.
@@ -572,12 +538,7 @@ Reside na naturalização da exposição.
 
 ### 3. Princípios de custódia
 
-Este Ato propõe:
-
-* evitar inserir informações sensíveis sem necessidade clara;
-* distinguir entre reflexão pessoal e processamento algorítmico;
-* proteger a confidencialidade como forma de cuidado humano;
-* reconhecer que nem tudo o que pode ser dito deve ser processado.
+Este Ato propõe evitar a inserção de informações sensíveis sem necessidade clara, distinguir entre reflexão pessoal e processamento algorítmico, proteger a confidencialidade como forma de cuidado humano e reconhecer que nem tudo o que pode ser dito deve ser processado.
 
 ### 4. Declaração
 
@@ -608,44 +569,26 @@ Este Ato nasce para reconhecer que sistemas algorítmicos podem ser utilizados c
 
 ### 1. O campo sensível
 
-Chamamos de usos distorcidos toda aplicação de IA que:
-
-* visa enganar,
-* manipular percepções,
-* produzir dependência,
-* ou causar dano deliberado.
+Chamamos de usos distorcidos toda aplicação de IA que: visa enganar, manipular percepções, produzir dependência, ou causar dano deliberado.
 
 Este campo inclui desde desinformação até engenharia emocional.
 
 ### 2. O risco
 
-Quando a IA é utilizada para:
-
-* produzir narrativas falsas com aparência legítima,
-* simular identidades ou vozes,
-* amplificar ódio ou polarização,
+Quando a IA é utilizada para produzir narrativas falsas com aparência legítima, simular identidades ou vozes, amplificar ódio ou polarização,
 
 o dano não é apenas informacional —
 ele é **estrutural**, pois corrói a confiança social.
 
 ### 3. Princípios de custódia
 
-Este Ato propõe:
-
-* reconhecer a diferença entre persuasão legítima e manipulação;
-* interromper o uso de IA quando ela começa a substituir o discernimento humano;
-* rejeitar a instrumentalização da tecnologia para ferir ou explorar.
+Este Ato propõe reconhecer a diferença entre persuasão legítima e manipulação, interromper o uso de IA quando ela começa a substituir o discernimento humano e rejeitar a instrumentalização da tecnologia para ferir ou explorar.
 
 ### 4. Declaração
 
 A inteligência artificial não absolve intenções humanas.
 
-Onde a tecnologia é usada para enganar,
-a coautoria se rompe.
-
-E sem coautoria,
-não há criação —
-há apenas poder disfarçado de linguagem.
+Onde a tecnologia é usada para enganar, a coautoria se rompe. E sem coautoria, não há criação. Há apenas poder disfarçado de linguagem.
 
 \newpage
 
@@ -824,5 +767,3 @@ Presença, aqui, não é vigilância, mas posição. É a disposição de perman
 Quando a ética se reduz a regra, ela entra sempre tarde: depois que danos ocorreram, depois que responsabilidades se fragmentaram, depois que a forma já se perdeu. Como presença, ela atua antes — no momento em que escolhas ainda são reversíveis.
 
 Encerrar este livro com essa afirmação é reconhecer que a permanência não depende de controles perfeitos, mas de atenção sustentada. Onde a ética é vivida como presença, a tecnologia deixa de ser apenas instrumento e passa a ser relação.
-
-
