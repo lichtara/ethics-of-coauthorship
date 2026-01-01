@@ -7,6 +7,7 @@ doi: "10.5281/zenodo.18116717"
 language: "pt-BR"
 ---
 
+\newpage
 
 # Ethics of Coauthorship — Human–AI Responsibility in the Age of Systems
 
@@ -57,14 +58,13 @@ Mas:
 
 Se esta pergunta ressoa em você, este livro já começou.
 
-# PARTE I — O FIM DA AUTORIA COMO POSSE
-
 \newpage
+
+# PARTE I — O FIM DA AUTORIA COMO POSSE
 
 ### Capítulo 1 
 
 ## O Colapso da Autoria Moderna
-
 
 Durante séculos, a autoria foi compreendida como uma relação direta entre sujeito e obra. Criar significava exercer domínio sobre um processo, responder por seus efeitos e, em última instância, ser reconhecido como origem legítima de algo que passa a existir no mundo.
 
@@ -742,7 +742,7 @@ Preservar espaços não automatizados é preservar a possibilidade de autoria. O
 
 \newpage
 
-# PARTE IV — PERMANÊNCIA
+#### PARTE IV — PERMANÊNCIA
 
 ### Capítulo 16
 
