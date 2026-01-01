@@ -124,7 +124,7 @@ Essa ilusão produz uma consequência específica: a naturalização de desigual
 
 Desfazer a ilusão da neutralidade não significa rejeitar a tecnologia, mas recolocá-la no campo da responsabilidade humana. Enquanto sistemas forem tratados como entidades imparciais, a coautoria humano–IA continuará operando em um terreno ético invisível, onde escolhas profundas são realizadas sem nome e sem resposta.
 
----
+
 
 # Autoria Existencial: o princípio invisível que sustenta sistemas vivos e tecnologias éticas
 
@@ -229,7 +229,7 @@ Em contextos humanos, institucionais e tecnológicos, esse reconhecimento opera 
 
 Quando a autoria é compreendida como integração consciente da experiência, sistemas deixam de depender exclusivamente de coerção para se manter. Passam a sustentar forma a partir de dentro.
 
----
+
 
 # PARTE II — O CAMPO DE RISCOS
 
@@ -331,7 +331,7 @@ Neste ponto, os **Atos de Custódia** entram como caixas de ressonância ética:
 
 Encerrar esta parte é reconhecer que os riscos não são efeitos colaterais do avanço tecnológico. Eles são sinais de uma transição cultural que ainda não encontrou sua forma ética.
 
----
+
 
 ## ATO DE CUSTÓDIA 01
 
@@ -390,7 +390,7 @@ Onde a autonomia cognitiva se dissolve,
 a coautoria deixa de existir —
 e a criação se torna apenas reprodução.
 
----
+
 
 # ATO DE CUSTÓDIA 02
 
@@ -448,7 +448,7 @@ A educação permanece sendo
 um ato profundamente humano,
 mesmo quando mediada por máquinas.
 
----
+
 
 # ATO DE CUSTÓDIA 03
 
@@ -506,7 +506,7 @@ a responsabilidade se perde.
 E sem responsabilidade,
 a coautoria se torna apenas ruído organizado.
 
----
+
 
 # ATO DE CUSTÓDIA 04
 
@@ -562,7 +562,7 @@ a relação com o mundo se empobrece.
 Preservar o que é sensível não é medo —
 é maturidade ética na era da coautoria humano–IA.
 
----
+
 
 # ATO DE CUSTÓDIA 05
 
@@ -621,7 +621,7 @@ E sem coautoria,
 não há criação —
 há apenas poder disfarçado de linguagem.
 
----
+
 
 # PARTE III — COAUTORIA CONSCIENTE
 
@@ -780,3 +780,5 @@ Presença, aqui, não é vigilância, mas posição. É a disposição de perman
 Quando a ética se reduz a regra, ela entra sempre tarde: depois que danos ocorreram, depois que responsabilidades se fragmentaram, depois que a forma já se perdeu. Como presença, ela atua antes — no momento em que escolhas ainda são reversíveis.
 
 Encerrar este livro com essa afirmação é reconhecer que a permanência não depende de controles perfeitos, mas de atenção sustentada. Onde a ética é vivida como presença, a tecnologia deixa de ser apenas instrumento e passa a ser relação.
+
+
