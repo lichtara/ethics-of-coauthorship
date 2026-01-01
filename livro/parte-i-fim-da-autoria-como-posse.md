@@ -62,15 +62,18 @@ Reconhecer esse mecanismo é essencial para qualquer ética da coautoria. Enquan
 
 ### Capítulo 4
 
-## A Ilusão da Neutralidade Tecnológica
+## Tecnologia como Espelho: por que a neutralidade se tornou insustentável
 
-A neutralidade tecnológica é uma das narrativas mais persistentes da modernidade. Ela sustenta a ideia de que sistemas são apenas meios e que seus efeitos dependem exclusivamente do uso que se faz deles. Essa concepção, entretanto, torna-se insustentável em ambientes mediados por infraestruturas algorítmicas.
+Durante muito tempo, tecnologias foram tratadas como instrumentos externos à experiência humana: meios transparentes entre intenção e efeito. Essa leitura permitiu separar criação de responsabilidade e funcionamento de valor, como se sistemas apenas executassem o que lhes fosse pedido.
 
-Todo sistema incorpora critérios de seleção, exclusão e priorização. Mesmo quando apresentados como escolhas técnicas, esses critérios operam como filtros normativos: definem o que aparece, o que desaparece e o que se torna recorrente. A neutralidade não é apenas inexistente, ela é estruturalmente impossível em qualquer arquitetura que organize informação.
+Em ambientes mediados por infraestruturas algorítmicas, essa separação deixa de se sustentar.
 
-O problema não reside no fato de sistemas influenciarem a realidade, mas no modo como essa influência é mascarada. Ao descrever decisões algorítmicas como processos objetivos, instituições ocultam as condições históricas, culturais e econômicas que moldaram seus parâmetros. O resultado é uma forma de poder que se exerce sem ser reconhecida como tal.
+Sistemas que organizam informação não apenas processam dados. Eles refletem padrões de decisão, hierarquias implícitas e modos específicos de ler o mundo. Ao selecionar, ordenar e amplificar certos conteúdos em detrimento de outros, tornam visíveis estruturas de valor que não estavam explicitadas.
 
-Essa ilusão produz uma consequência específica: a naturalização de desigualdades. Quando padrões de exclusão, silenciamento ou homogeneização são atribuídos ao funcionamento “normal” da tecnologia, perde-se a capacidade de questionar os valores que estruturam esses padrões.
+Nesse sentido, a tecnologia não atua como agente neutro, mas como espelho estrutural: ela devolve à superfície aquilo que estava embutido em critérios, escolhas históricas e prioridades institucionais. O que aparece como funcionamento técnico é, muitas vezes, a expressão automatizada de campos humanos não integrados.
 
-Desfazer a ilusão da neutralidade não significa rejeitar a tecnologia, mas recolocá-la no campo da responsabilidade humana. Enquanto sistemas forem tratados como entidades imparciais, a coautoria humano–IA continuará operando em um terreno ético invisível, onde escolhas profundas são realizadas sem nome e sem resposta.
+O problema não é que sistemas influenciem a realidade, mas que essa influência seja descrita como se fosse apenas efeito de cálculo. Quando decisões mediadas por algoritmos são apresentadas como objetivas, apaga-se a cadeia de valores que as tornou possíveis. O poder deixa de ser reconhecido como tal e passa a operar sob a forma de procedimento.
 
+Esse apagamento tem efeitos diretos. Desigualdades tornam-se ruído estatístico, silenciamentos aparecem como anomalias técnicas e a homogeneização da linguagem passa a ser tratada como padrão funcional.
+
+Reconhecer a tecnologia como espelho não implica rejeitá-la. Implica recolocá-la no campo da autoria humana. Enquanto sistemas forem tratados como superfícies imparciais, a coautoria humano–IA continuará operando sem leitura de campo — e escolhas profundas seguirão sendo executadas sem presença.
