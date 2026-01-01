@@ -4,28 +4,19 @@
 
 ### Preâmbulo
 
-A inteligência artificial não escuta segredos —
-mas nós os entregamos.
+A inteligência artificial não escuta segredos, mas nós os entregamos.
 
-Toda interação com sistemas algorítmicos carrega uma camada invisível de exposição.
-Mesmo quando não há intenção de violar confidências, a forma como utilizamos a tecnologia pode transformar intimidade em recurso.
+Toda interação com sistemas algorítmicos carrega uma camada invisível de exposição. Mesmo quando não há intenção de violar confidências, a forma como utilizamos a tecnologia pode transformar intimidade em recurso.
 
-Este Ato nasce para nomear um risco silencioso:
-a conversão involuntária da vida privada em matéria de processamento.
+Este Ato nasce para nomear um risco silencioso: a conversão involuntária da vida privada em matéria de processamento.
 
 ---
 
 ### 1. O campo sensível
 
-Chamamos de dados sensíveis todas as informações que dizem respeito a:
+Chamamos de dados sensíveis todas as informações que dizem respeito a identidade pessoal, contextos profissionais confidenciais, decisões estratégicas, histórias íntimas ou vulneráveis.
 
-* identidade pessoal,
-* contextos profissionais confidenciais,
-* decisões estratégicas,
-* histórias íntimas ou vulneráveis.
-
-Este campo não é técnico.
-Ele é **relacional**.
+Este campo não é técnico. Ele é **relacional**.
 
 ---
 
@@ -41,12 +32,7 @@ Reside na naturalização da exposição.
 
 ### 3. Princípios de custódia
 
-Este Ato propõe:
-
-* evitar inserir informações sensíveis sem necessidade clara;
-* distinguir entre reflexão pessoal e processamento algorítmico;
-* proteger a confidencialidade como forma de cuidado humano;
-* reconhecer que nem tudo o que pode ser dito deve ser processado.
+Este Ato propõe evitar a inserção de informações sensíveis sem necessidade clara, distinguir entre reflexão pessoal e processamento algorítmico, proteger a confidencialidade como forma de cuidado humano e reconhecer que nem tudo o que pode ser dito deve ser processado.
 
 ---
 
@@ -54,8 +40,6 @@ Este Ato propõe:
 
 A tecnologia não é confidente.
 
-Quando a vida íntima se torna insumo,
-a relação com o mundo se empobrece.
+Quando a vida íntima se torna insumo, a relação com o mundo se empobrece.
 
-Preservar o que é sensível não é medo —
-é maturidade ética na era da coautoria humano–IA.
+Preservar o que é sensível não é medo, é maturidade ética na era da coautoria humano–IA.
