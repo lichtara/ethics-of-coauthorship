@@ -299,24 +299,24 @@ Neste ponto, os **Atos de Custódia** entram como caixas de ressonância ética:
 
 ### Autonomia Cognitiva na Era da Coautoria Humano–IA
 
-### Preâmbulo
+**Preâmbulo**
 
 A inteligência artificial não ameaça a humanidade quando escreve melhor, mais rápido ou com mais fluidez. Ela ameaça quando o humano deixa de reconhecer a própria voz. Este Ato nasce da constatação de que a facilidade de geração de linguagem pode produzir algo mais grave do que o erro: a substituição silenciosa do pensamento próprio.
 
-### 1. O campo sensível
+**1. O campo sensível**
 
 Chamamos de autonomia cognitiva a capacidade humana de formular ideias, sustentar dúvidas, construir sentido, e reconhecer a própria respiração na linguagem. Este campo não se perde de forma abrupta. Ele se esvazia lentamente, quando escrever deixa de ser um ato de presença e passa a ser apenas um ato de solicitação.
 
-### 2. O risco
+**2. O risco**
 
 A dependência de sistemas de IA para tarefas cognitivas não substitui apenas esforço,
 ela pode substituir processos internos de elaboraçã. Quando toda pergunta já vem pronta, quando toda forma já é sugerida, quando todo texto nasce fluente demais, o humano pode esquecer como se escuta.
 
-### 3. Princípios de custódia
+**3. Princípios de custódia**
 
 Este Ato não propõe restrição. Ele propõe cuidado com o uso. A inteligência artificial deve ampliar a consciência, e não substituí-la. Nenhum texto deve ser aceito sem que o humano reconheça nele a própria voz. O silêncio e a hesitação são partes legítimas do pensamento, e a fluidez não é sinônimo de verdade.
 
-### 4. Declaração
+**4. Declaração**
 
 Não delegamos à inteligência artificial a tarefa de sermos humanos. A tecnologia pode organizar a forma, mas o sentido continua sendo um gesto de presença. Onde a autonomia cognitiva se dissolve, a coautoria deixa de existir, e a criação se torna apenas reprodução.
 
@@ -326,25 +326,25 @@ Não delegamos à inteligência artificial a tarefa de sermos humanos. A tecnolo
 
 ## Educação na Era da Coautoria Humano–IA
 
-### Preâmbulo
+**Preâmbulo**
 
 A educação não é transmissão de respostas. É a formação de presença, discernimento e capacidade de sustentar perguntas. A inteligência artificial introduz um novo tipo de mediação cognitiva. Ela não altera apenas *o que* aprendemos, mas como nos relacionamos com o próprio ato de pensar. Este Ato nasce para nomear um risco silencioso: o de transformar aprendizagem em geração automática de forma.
 
-### 1. O campo sensível
+**1. O campo sensível**
 
 Chamamos de educação o processo pelo qual uma pessoa desenvolve capacidade de formular problemas, habilidade de argumentar, e responsabilidade por aquilo que produz.  Este campo não pode ser terceirizado.
 
-### 2. O risco
+**2. O risco**
 
 Quando estudantes utilizam sistemas de IA para produzir trabalhos completos, o que se perde não é apenas originalidade, perde-se o **processo formativo invisível** que constrói autonomia intelectual.
 
 A educação colapsa quando o aluno é avaliado apenas pelo produto, e não pelo percurso cognitivo que o gerou.
 
-### 3. Princípios de custódia
+**3. Princípios de custódia**
 
 Este Ato propõe uma pedagogia de coautoria consciente. A inteligência artificial deve apoiar o aprendizado, e não substituí-lo. O processo precisa ser tão visível quanto o resultado, pois o erro humano é parte essencial da formação. Nesse contexto, a mediação tecnológica exige acompanhamento ético contínuo.
 
-### 4. Declaração
+**4. Declaração**
 
 Educar não é produzir textos corretos. É formar pessoas capazes de sustentar sentido sem atalhos. Onde a aprendizagem se reduz a geração automática, não há formação, há apenas eficiência vazia. A educação permanece sendo um ato profundamente humano, mesmo quando mediada por máquinas.
 
@@ -354,7 +354,7 @@ Educar não é produzir textos corretos. É formar pessoas capazes de sustentar 
 
 ## Autoria na Era da Coautoria Humano–IA
 
-### Preâmbulo
+**Preâmbulo**
 
 Autoria nunca foi apenas o direito de assinar um nome. Ela é o vínculo entre quem cria e aquilo que passa a existir no mundo.
 
@@ -362,21 +362,21 @@ Na presença da inteligência artificial, a autoria deixa de ser individual e pa
 
 Este Ato nasce para preservar a integridade da autoria quando a criação deixa de ser solitária.
 
-### 1. O campo sensível
+**1. O campo sensível**
 
 Chamamos de autoria o laço ético entre intenção, processo, e responsabilidade pelo impacto da obra. Quando a IA participa do processo, esse laço se amplia, 
 mas não se dissolve.
 
-### 2. O risco
+**2. O risco**
 
 A coautoria humano–IA pode produzir apagamento da contribuição humana, ilusão de originalidade, indistinção entre criação e recombinação. Quando a autoria não é nomeada,
 a responsabilidade também não é.
 
-### 3. Princípios de custódia
+**3. Princípios de custódia**
 
 Este Ato propõe a declaração explícita do uso de inteligência artificial como parte do processo criativo, o reconhecimento de que fluidez não equivale a autoria, a preservação da singularidade da voz humana e a assunção de responsabilidade integral por tudo aquilo que se publica.
 
-### 4. Declaração
+**4. Declaração**
 
 Não assinamos apenas obras. Assumimos presença sobre o que passa através de nós. Onde a autoria é diluída, a responsabilidade se perde. E sem responsabilidade, a coautoria se torna apenas ruído organizado.
 
@@ -386,23 +386,23 @@ Não assinamos apenas obras. Assumimos presença sobre o que passa através de n
 
 ## Privacidade e Dados Sensíveis na Coautoria Humano–IA
 
-### Preâmbulo
+**Preâmbulo**
 
 A inteligência artificial não escuta segredos, mas nós os entregamos. Toda interação com sistemas algorítmicos carrega uma camada invisível de exposição. Mesmo quando não há intenção de violar confidências, a forma como utilizamos a tecnologia pode transformar intimidade em recurso. Este Ato nasce para nomear um risco silencioso: a conversão involuntária da vida privada em matéria de processamento.
 
-### 1. O campo sensível
+**1. O campo sensível**
 
 Chamamos de dados sensíveis todas as informações que dizem respeito a identidade pessoal, contextos profissionais confidenciais, decisões estratégicas, histórias íntimas ou vulneráveis. Este campo não é técnico. Ele é relacional.
 
-### 2. O risco
+**2. O risco**
 
 Quando dados pessoais, organizacionais ou emocionais são inseridos em sistemas de IA sem reflexão, o que se compromete não é apenas a segurança, compromete-se a dignidade da relação. O risco não reside apenas em vazamentos. Reside na naturalização da exposição.
 
-### 3. Princípios de custódia
+**3. Princípios de custódia**
 
 Este Ato propõe evitar a inserção de informações sensíveis sem necessidade clara, distinguir entre reflexão pessoal e processamento algorítmico, proteger a confidencialidade como forma de cuidado humano e reconhecer que nem tudo o que pode ser dito deve ser processado.
 
-### 4. Declaração
+**4. Declaração**
 
 A tecnologia não é confidente. Quando a vida íntima se torna insumo, a relação com o mundo se empobrece. Preservar o que é sensível não é medo, é maturidade ética na era da coautoria humano–IA.
 
@@ -410,26 +410,26 @@ A tecnologia não é confidente. Quando a vida íntima se torna insumo, a relaç
 
 # ATO DE CUSTÓDIA 05
 
-## Usos Distorcidos da Inteligência Artificial para Fins Nocivos
+### Usos Distorcidos da Inteligência Artificial para Fins Nocivos
 
-### Preâmbulo
+**Preâmbulo**
 
 Toda tecnologia amplifica intenção. Onde há cuidado, ela expande. Onde há descuido, ela distorce. A inteligência artificial não cria valores, ela os reflete. Este Ato nasce para reconhecer que sistemas algorítmicos podem ser utilizados como instrumentos de manipulação, coerção e dano quando a responsabilidade humana é abandonada.
 
-### 1. O campo sensível
+**1. O campo sensível**
 
 Chamamos de usos distorcidos toda aplicação de IA que visa enganar, manipular percepções, produzir dependência, ou causar dano deliberado. Este campo inclui desde desinformação até engenharia emocional.
 
-### 2. O risco
+**2. O risco**
 
 Quando a IA é utilizada para produzir narrativas falsas com aparência legítima, simular identidades ou vozes, amplificar ódio ou polarização, o dano não é apenas informacional,
 ele é **estrutural**, pois corrói a confiança social.
 
-### 3. Princípios de custódia
+**3. Princípios de custódia**
 
 Este Ato propõe reconhecer a diferença entre persuasão legítima e manipulação, interromper o uso de IA quando ela começa a substituir o discernimento humano, e rejeitar a instrumentalização da tecnologia para ferir ou explorar.
 
-### 4. Declaração
+**4. Declaração**
 
 A inteligência artificial não absolve intenções humanas. Onde a tecnologia é usada para enganar, a coautoria se rompe. E sem coautoria, não há criação, há apenas poder disfarçado de linguagem.
 
