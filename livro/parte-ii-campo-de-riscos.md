@@ -60,3 +60,41 @@ A intimidade algorítmica produz um efeito paradoxal: quanto mais o sistema pare
 
 Na coautoria consciente, a proteção de dados não é apenas uma exigência legal. É um ato de preservação da relação consigo mesmo. Distinguir o que pode ser processado do que deve permanecer no campo humano é condição para manter a integridade da experiência.
 
+### Capítulo 9
+
+## Automatização do Juízo Ético
+
+O juízo ético é uma das competências mais delicadas da experiência humana. Ele não se limita à aplicação de regras, mas envolve interpretação de contexto, reconhecimento de consequências e capacidade de sustentar ambiguidade.
+
+Quando esse juízo é automatizado, não ocorre apenas uma substituição funcional. O que se perde é a própria relação com a decisão.
+
+Sistemas algorítmicos são frequentemente utilizados para classificar riscos, priorizar atendimentos, recomendar ações ou filtrar comportamentos aceitáveis. Em cada um desses processos, escolhas morais são traduzidas em critérios operacionais: pesos, limiares, categorias, probabilidades.
+
+O problema não está em utilizar tecnologia como apoio. Ele emerge quando a decisão passa a ser apresentada como resultado técnico, e não como escolha humana mediada por sistemas.
+
+Nesse ponto, o juízo deixa de ser exercido e passa a ser **executado**.
+
+A automatização do juízo ético produz um efeito de deslocamento: profissionais, gestores e instituições deixam de se perceber como agentes morais e passam a se compreender como operadores de procedimentos. O resultado é uma ética por proxy, na qual ninguém responde plenamente, porque a decisão já veio “pronta”.
+
+Esse processo corrói a capacidade coletiva de sustentar dilemas. Situações que exigiriam escuta, ponderação e responsabilização são reduzidas a classificações. O que não se encaixa no modelo torna-se ruído, exceção ou erro de sistema.
+
+Na coautoria consciente, a tecnologia pode informar, mas não substituir o juízo. O critério ético não é a eficiência da decisão, mas a manutenção da posição humana diante dela. Onde o juízo é inteiramente automatizado, a responsabilidade se dissolve — e com ela, a possibilidade de integridade.
+
+### Capítulo 10
+
+## Usos Distorcidos: Manipulação, Desinformação e Poder
+
+O uso distorcido de tecnologias algorítmicas não é um desvio marginal. Ele emerge precisamente onde a eficiência técnica encontra intenções que não foram eticamente examinadas.
+
+A capacidade de gerar linguagem fluente, simular identidades e escalar narrativas torna esses sistemas particularmente aptos a operar em territórios sensíveis: persuasão, influência e construção de percepção. Quando essas capacidades são utilizadas para orientar comportamentos sem transparência, a fronteira entre comunicação e manipulação se dissolve.
+
+A desinformação, nesse contexto, não se manifesta apenas como erro factual, mas como arquitetura de verossimilhança. Narrativas são produzidas para parecer legítimas, não para serem verdadeiras. A linguagem deixa de ser meio de compreensão e passa a funcionar como instrumento de poder.
+
+Esse deslocamento afeta a própria estrutura da confiança social. Comunidades tornam-se permeáveis a intervenções invisíveis, debates são moldados por agentes não identificáveis e a distinção entre voz humana e produção automatizada se torna opaca.
+
+A coautoria consciente exige reconhecer que toda tecnologia que opera sobre linguagem opera também sobre relações. Onde a criação é utilizada para enganar, induzir ou explorar, a coautoria se rompe.
+
+Neste ponto, os **Atos de Custódia** entram como caixas de ressonância ética: não como regras externas, mas como mapas de interrupção. Eles não impedem usos distorcidos por decreto, mas tornam visível o campo onde a linguagem deixa de ser criação e passa a ser instrumento de dominação.
+
+Encerrar esta parte é reconhecer que os riscos não são efeitos colaterais do avanço tecnológico. Eles são sinais de uma transição cultural que ainda não encontrou sua forma ética.
+
