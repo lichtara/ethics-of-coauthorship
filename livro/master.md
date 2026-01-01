@@ -1,3 +1,13 @@
+---
+title: "Ethics of Coauthorship — Human–AI Responsibility in the Age of Systems"
+subtitle: "Living Draft v1.0 – 2026"
+author: "Débora Mariane da Silva Lutz"
+institution: "Lichtara Institute"
+doi: "10.5281/zenodo.18116717"
+language: "pt-BR"
+---
+
+
 # Ethics of Coauthorship — Human–AI Responsibility in the Age of Systems
 
 ### Introdução
@@ -49,6 +59,8 @@ Se esta pergunta ressoa em você, este livro já começou.
 
 # PARTE I — O FIM DA AUTORIA COMO POSSE
 
+\newpage
+
 ### Capítulo 1 
 
 ## O Colapso da Autoria Moderna
@@ -78,6 +90,8 @@ Este é o terreno onde a coautoria humano–IA se instala: não como inovação 
 E é a partir dessa visibilidade que a pergunta central deste livro emerge:
 como reconstruir autoria quando a posse já não é suficiente para sustentá-la?
 
+\newpage
+
 ### Capítulo 2
 
 ## Sistemas que Executam Valores
@@ -93,6 +107,8 @@ O problema ético não reside no fato de valores estarem presentes. Ele reside n
 Esse deslocamento produz uma ruptura silenciosa: valores deixam de ser debatidos e passam a ser operados. O espaço da deliberação é substituído pelo da execução.
 
 Compreender que sistemas não decidem, mas executam valores, é o primeiro passo para reconstruir autoria em ambientes mediados por tecnologia. Enquanto essa execução permanecer invisível, a coautoria humano–IA continuará operando sob a aparência de neutralidade, quando na verdade reproduz estruturas de poder, exclusão e privilégio.
+
+\newpage
 
 ### Capítulo 3
 
@@ -110,6 +126,8 @@ Nesse cenário, o sistema deixa de ser instrumento e passa a funcionar como **á
 
 Reconhecer esse mecanismo é essencial para qualquer ética da coautoria. Enquanto “o sistema” continuar sendo tratado como sujeito de decisões, a possibilidade de reconstruir responsabilidade permanecerá bloqueada. Autoria não se perde por excesso de automação, mas por abandono da posição de resposta.
 
+\newpage
+
 ### Capítulo 4
 
 ## A Ilusão da Neutralidade Tecnológica
@@ -124,7 +142,7 @@ Essa ilusão produz uma consequência específica: a naturalização de desigual
 
 Desfazer a ilusão da neutralidade não significa rejeitar a tecnologia, mas recolocá-la no campo da responsabilidade humana. Enquanto sistemas forem tratados como entidades imparciais, a coautoria humano–IA continuará operando em um terreno ético invisível, onde escolhas profundas são realizadas sem nome e sem resposta.
 
-
+\newpage
 
 # Autoria Existencial: o princípio invisível que sustenta sistemas vivos e tecnologias éticas
 
@@ -229,7 +247,7 @@ Em contextos humanos, institucionais e tecnológicos, esse reconhecimento opera 
 
 Quando a autoria é compreendida como integração consciente da experiência, sistemas deixam de depender exclusivamente de coerção para se manter. Passam a sustentar forma a partir de dentro.
 
-
+\newpage
 
 # PARTE II — O CAMPO DE RISCOS
 
@@ -251,6 +269,8 @@ Nesse cenário, o risco não é a utilização da IA, mas a substituição silen
 
 A coautoria consciente exige vigilância sobre esse ponto específico: a preservação do estilo como expressão de percurso, e não como efeito colateral de modelos estatísticos.
 
+\newpage
+
 ### Capítulo 6
 
 ## Template Cultural e Homogeneização da Linguagem
@@ -264,6 +284,8 @@ O efeito mais perceptível desse processo não é a perda de conteúdo, mas a er
 A homogeneização da linguagem não é apenas um problema estético. Ela compromete a capacidade coletiva de imaginar alternativas, pois limita o repertório de formas pelas quais experiências podem ser nomeadas. Quando todos os textos soam iguais, as diferenças deixam de ser articuláveis.
 
 Neste contexto, a coautoria humano–IA corre o risco de se transformar em um processo de reprodução de forma, e não de criação de sentido. Preservar autoria passa, então, por reconhecer e interromper o uso inconsciente de moldes culturais que se apresentam como fluidez.
+
+\newpage
 
 ### Capítulo 7
 
@@ -279,6 +301,8 @@ O efeito desse processo é cumulativo. A ausência reiterada de esforço interpr
 
 A coautoria consciente na educação exige, portanto, uma redefinição de critérios. O uso de IA não deve ser avaliado apenas por eficiência, mas por seu impacto sobre a formação de autonomia intelectual. Onde o pensamento é sistematicamente substituído por geração automática, a educação deixa de ser formativa e passa a ser apenas produtiva.
 
+\newpage
+
 ### Capítulo 8
 
 ## Privacidade, Dados Sensíveis e Intimidade Algorítmica
@@ -292,6 +316,8 @@ O risco não se limita a vazamentos ou uso indevido de dados. Ele reside na **no
 A intimidade algorítmica produz um efeito paradoxal: quanto mais o sistema parece compreender, menos o usuário percebe o quanto se torna legível. A sensação de acolhimento substitui a consciência de mediação.
 
 Na coautoria consciente, a proteção de dados não é apenas uma exigência legal. É um ato de preservação da relação consigo mesmo. Distinguir o que pode ser processado do que deve permanecer no campo humano é condição para manter a integridade da experiência.
+
+\newpage
 
 ### Capítulo 9
 
@@ -313,6 +339,8 @@ Esse processo corrói a capacidade coletiva de sustentar dilemas. Situações qu
 
 Na coautoria consciente, a tecnologia pode informar, mas não substituir o juízo. O critério ético não é a eficiência da decisão, mas a manutenção da posição humana diante dela. Onde o juízo é inteiramente automatizado, a responsabilidade se dissolve — e com ela, a possibilidade de integridade.
 
+\newpage
+
 ### Capítulo 10
 
 ## Usos Distorcidos: Manipulação, Desinformação e Poder
@@ -331,11 +359,11 @@ Neste ponto, os **Atos de Custódia** entram como caixas de ressonância ética:
 
 Encerrar esta parte é reconhecer que os riscos não são efeitos colaterais do avanço tecnológico. Eles são sinais de uma transição cultural que ainda não encontrou sua forma ética.
 
+\newpage
 
+# ATO DE CUSTÓDIA 01
 
-## ATO DE CUSTÓDIA 01
-
-### Autonomia Cognitiva na Era da Coautoria Humano–IA
+## Autonomia Cognitiva na Era da Coautoria Humano–IA
 
 ### Preâmbulo
 
@@ -390,7 +418,7 @@ Onde a autonomia cognitiva se dissolve,
 a coautoria deixa de existir —
 e a criação se torna apenas reprodução.
 
-
+\newpage
 
 # ATO DE CUSTÓDIA 02
 
@@ -448,7 +476,7 @@ A educação permanece sendo
 um ato profundamente humano,
 mesmo quando mediada por máquinas.
 
-
+\newpage
 
 # ATO DE CUSTÓDIA 03
 
@@ -506,7 +534,7 @@ a responsabilidade se perde.
 E sem responsabilidade,
 a coautoria se torna apenas ruído organizado.
 
-
+\newpage
 
 # ATO DE CUSTÓDIA 04
 
@@ -562,12 +590,11 @@ a relação com o mundo se empobrece.
 Preservar o que é sensível não é medo —
 é maturidade ética na era da coautoria humano–IA.
 
-
+\newpage
 
 # ATO DE CUSTÓDIA 05
 
 ## Usos Distorcidos da Inteligência Artificial para Fins Nocivos
-
 
 ### Preâmbulo
 
@@ -621,7 +648,7 @@ E sem coautoria,
 não há criação —
 há apenas poder disfarçado de linguagem.
 
-
+\newpage
 
 # PARTE III — COAUTORIA CONSCIENTE
 
@@ -643,6 +670,8 @@ Na coautoria humano–IA, a presença não se mede pelo tempo dedicado à intera
 
 Criar sem desaparecer é, portanto, sustentar presença onde a tecnologia oferece apenas eficiência. É escolher permanecer no processo mesmo quando seria mais fácil delegá-lo.
 
+\newpage
+
 ### Capítulo 12
 
 ## Transparência como Ética Criativa
@@ -658,6 +687,8 @@ Esse gesto simples tem consequências profundas. Ele impede a construção de il
 Na ausência de transparência, a coautoria se transforma em apropriação silenciosa. Não porque a tecnologia seja ilegítima, mas porque a mediação foi ocultada.
 
 A transparência, nesse sentido, não é um adendo moral. É uma prática criativa: o ato de manter aberto o espaço entre intenção, processo e resultado.
+
+\newpage
 
 ### Capítulo 13
 
@@ -675,6 +706,8 @@ Essa substituição não é detectável apenas no resultado final. Ela se manife
 
 Tratar a IA como amplificador é, portanto, um exercício de posição. É manter o sistema no lugar de instrumento, não de origem. Onde a tecnologia expande possibilidades, a autoria se fortalece. Onde ela ocupa o centro, a autoria se dilui.
 
+\newpage
+
 ### Capítulo 14
 
 ## Reconhecer a Própria Voz
@@ -688,6 +721,8 @@ A perda da voz não se manifesta como erro, mas como indiferença. O agente deix
 Reconhecer a própria voz exige fricção. Exige perceber quando um texto soa correto demais, organizado demais, distante demais. Exige disposição para reescrever não porque algo esteja tecnicamente errado, mas porque ainda não está *seu*.
 
 Nesse ponto, a coautoria consciente não é eficiência colaborativa. É trabalho de escuta. Escuta de si, antes de escuta do sistema.
+
+\newpage
 
 ### Capítulo 15
 
@@ -705,7 +740,9 @@ Esse direito não se exerce por proibição, mas por escolha. Ele se manifesta q
 
 Preservar espaços não automatizados é preservar a possibilidade de autoria. Onde tudo é delegável, ninguém permanece.
 
-# **PARTE IV — PERMANÊNCIA**
+\newpage
+
+# PARTE IV — PERMANÊNCIA
 
 ### Capítulo 16
 
@@ -720,6 +757,8 @@ O não reconhecimento de limites produz um padrão recorrente: expansão inicial
 Introduzir limite é antecipar falhas. É transformar contenção em estratégia, e não em correção tardia. Onde o limite é operado como princípio, a continuidade não depende de vigilância constante, mas de clareza estrutural.
 
 Na coautoria humano–IA, isso significa reconhecer antecipadamente quais processos devem permanecer humanos, quais podem ser mediados e quais não devem ser automatizados. A maturidade não está em fazer tudo, mas em saber o que não fazer.
+
+\newpage
 
 ### Capítulo 17
 
@@ -737,6 +776,8 @@ Na coautoria humano–IA, a coerção aparece sob formas sutis: métricas que in
 
 Onde a preservação se ancora na compreensão, sistemas não apenas permanecem — eles amadurecem.
 
+\newpage
+
 ### Capítulo 18
 
 ## Governança como Integração
@@ -753,6 +794,8 @@ Na coautoria humano–IA, isso implica incluir no desenho de sistemas não apena
 
 Onde a governança opera como integração, a tecnologia deixa de ser infraestrutura invisível e passa a ser prática compartilhada.
 
+\newpage
+
 ### Capítulo 19
 
 ## O Futuro da Coautoria Humano–IA
@@ -766,6 +809,8 @@ Há, porém, uma alternativa. Ela não depende de frear a inovação, mas de red
 Esse futuro exige práticas que mantenham visíveis os percursos de criação, que preservem espaços não automatizados e que valorizem a capacidade de recusa tanto quanto a de produção.
 
 A coautoria consciente não é uma técnica nova, mas uma cultura em formação. Ela se constrói na forma como escolhemos permanecer presentes em processos que poderiam ser delegados — e, ao fazê-lo, preservar não apenas resultados, mas a própria condição de autoria.
+
+\newpage
 
 ### Capítulo 20
 
