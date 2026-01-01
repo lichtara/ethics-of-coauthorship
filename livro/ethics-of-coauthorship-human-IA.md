@@ -8,7 +8,6 @@ language: "pt-BR"
 ---
 
 \newpage
-
 # Introdução
 
 Há alguns anos, a pergunta dominante sobre inteligência artificial era técnica: *o que essas máquinas conseguem fazer?* Hoje, essa pergunta já não é suficiente. À medida que sistemas algorítmicos passam a mediar escrita, decisão, criação e interação social, algo mais profundo se desloca: não apenas as capacidades humanas, mas a própria posição de autoria no mundo.
