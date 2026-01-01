@@ -4,6 +4,7 @@ from __future__ import annotations
 import os
 import re
 from pathlib import Path
+from typing import List
 
 # Ensure print dependencies are discoverable on macOS/Homebrew setups.
 os.environ.setdefault("DYLD_LIBRARY_PATH", "/opt/homebrew/lib")
@@ -48,6 +49,15 @@ CSS_STYLE = f"""
 @page {{
   size: A4;
   margin: 2.5cm;
+  @bottom-center {{
+    content: counter(page);
+    font-size: 10pt;
+    color: #555;
+    font-family: 'Inter', sans-serif;
+  }}
+}}
+@page:first {{
+  @bottom-center {{ content: none; }}
 }}
 html {{
   font-size: 12pt;
@@ -65,11 +75,20 @@ body {{
   overflow-wrap: normal;
   white-space: normal;
 }}
+body * {{
+  hyphens: none !important;
+  -webkit-hyphens: none !important;
+  -ms-hyphens: none !important;
+  word-break: keep-all !important;
+  overflow-wrap: normal !important;
+}}
 .cover {{
   display: flex;
   flex-direction: column;
+  height: calc(297mm - 5cm);
   min-height: 100vh;
   align-items: center;
+  justify-content: center;
   text-align: center;
 }}
 .cover-content {{
@@ -104,6 +123,20 @@ body {{
   page-break-before: always;
   break-before: page;
 }}
+.part-page {{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: calc(297mm - 5cm);
+  min-height: 100vh;
+  text-align: center;
+}}
+.part-title {{
+  font-size: 18pt;
+  font-weight: 600;
+  letter-spacing: 0.5pt;
+}}
 h1, h2, h3 {{
   page-break-after: avoid;
 }}
@@ -127,6 +160,42 @@ def remove_main_title(text: str) -> str:
     return title_pattern.sub("", text, count=1)
 
 
+def remove_invisible_breaks(text: str) -> str:
+    # Strip soft hyphens, zero-width spaces and stray BOM-like markers.
+    unwanted = {"\u00ad", "\ufeff", "\ufffe", "\u2060", "\u200b", "\u200c", "\u200d"}
+    return "".join(ch for ch in text if ch not in unwanted)
+
+
+PART_PATTERN = re.compile(r"^#{1,6}\s*(PARTE\s+[IVX]+(?:\s+—\s+.*)?)\s*$", re.IGNORECASE)
+
+
+def transform_part_pages(text: str) -> str:
+    lines: List[str] = text.splitlines()
+    result: List[str] = []
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        stripped = line.strip()
+        next_line = lines[i + 1].strip() if i + 1 < len(lines) else ""
+
+        # Skip a \newpage immediately before a PART heading to avoid blank pages.
+        if stripped == "\\newpage" and PART_PATTERN.match(next_line):
+            i += 1
+            continue
+
+        match = PART_PATTERN.match(stripped)
+        if match:
+            title = match.group(1)
+            result.append(f'<div class="part-page"><div class="part-title">{title}</div></div>')
+            result.append('<div class="page-break"></div>')
+        else:
+            result.append(line)
+
+        i += 1
+
+    return "\n".join(result)
+
+
 def convert_newpages(text: str) -> str:
     return text.replace("\\newpage", "<div class=\"page-break\"></div>")
 
@@ -136,6 +205,8 @@ def main() -> None:
     content = strip_front_matter(content)
     content = remove_leading_newpage(content)
     content = remove_main_title(content)
+    content = remove_invisible_breaks(content)
+    content = transform_part_pages(content)
     content = convert_newpages(content)
 
     md = markdown.Markdown(extensions=["extra", "sane_lists", "smarty"])
