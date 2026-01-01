@@ -6,11 +6,7 @@
 
 Durante séculos, a autoria foi compreendida como uma relação direta entre sujeito e obra. Criar significava exercer domínio sobre um processo, responder por seus efeitos e, em última instância, ser reconhecido como origem legítima de algo que passa a existir no mundo.
 
-Esse modelo se sustentava sobre três pressupostos silenciosos:
-
-1. que o processo criativo era rastreável,
-2. que os efeitos de uma obra eram previsíveis,
-3. que a responsabilidade podia ser atribuída a um agente isolado.
+Esse modelo se sustentava sobre três pressupostos silenciosos: que o processo criativo era rastreável, que os efeitos de uma obra eram previsíveis e que a responsabilidade podia ser atribuída a um agente isolado.
 
 Nenhum desses pressupostos permanece intacto.
 
@@ -25,8 +21,7 @@ Quando não é mais possível identificar onde começa uma escolha e termina uma
 
 Este é o terreno onde a coautoria humano–IA se instala: não como inovação isolada, mas como intensificação de uma crise anterior. A tecnologia não inaugura o colapso, ela o torna visível.
 
-E é a partir dessa visibilidade que a pergunta central deste livro emerge:
-como reconstruir autoria quando a posse já não é suficiente para sustentá-la?
+E é a partir dessa visibilidade que a pergunta central deste livro emerge: como reconstruir autoria quando a posse já não é suficiente para sustentá-la?
 
 ### Capítulo 2
 
