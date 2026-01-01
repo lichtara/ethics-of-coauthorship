@@ -12,19 +12,13 @@ a **substituição silenciosa do pensamento próprio**.
 
 ### 1. O campo sensível
 
-Chamamos de autonomia cognitiva a capacidade humana de:
+Chamamos de autonomia cognitiva a capacidade humana de formular ideias, sustentar dúvidas, construir sentido, e reconhecer a própria respiração na linguagem.
 
-* formular ideias,
-* sustentar dúvidas,
-* construir sentido,
-* e reconhecer a própria respiração na linguagem.
-
-Este campo não se perde de forma abrupta.
-Ele se esvazia lentamente, quando escrever deixa de ser um ato de presença e passa a ser apenas um ato de solicitação.
+Este campo não se perde de forma abrupta. Ele se esvazia lentamente, quando escrever deixa de ser um ato de presença e passa a ser apenas um ato de solicitação.
 
 ### 2. O risco
 
-A dependência de sistemas de IA para tarefas cognitivas não substitui apenas esforço —
+A dependência de sistemas de IA para tarefas cognitivas não substitui apenas esforço,
 ela pode substituir **processos internos de elaboração**.
 
 Quando toda pergunta já vem pronta, quando toda forma já é sugerida, quando todo texto nasce fluente demais, o humano pode esquecer como se escuta.
@@ -40,3 +34,4 @@ A inteligência artificial deve ampliar a consciência, e não substituí-la. Ne
 Não delegamos à inteligência artificial a tarefa de sermos humanos. A tecnologia pode organizar a forma, mas o sentido continua sendo um gesto de presença.
 
 Onde a autonomia cognitiva se dissolve, a coautoria deixa de existir, e a criação se torna apenas reprodução.
+
