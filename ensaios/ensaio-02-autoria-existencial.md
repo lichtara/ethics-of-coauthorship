@@ -16,17 +16,17 @@ Este ensaio propõe uma alternativa conceitual: a **Autoria Existencial** como p
 
 Essa redefinição não elimina a responsabilidade jurídica nem a necessidade de governança, mas oferece um fundamento mais adequado para pensar autoria, tecnologia e ética em ambientes onde o controle total já não é viável.
 
+Perfeito, vamos reformular este trecho eliminando completamente os bullets e preservando o tom técnico.
+
+Segue a versão pronta para substituir o bloco inteiro:
+
 ## 2. O que é Autoria Existencial
 
 A Autoria Existencial designa a capacidade de um agente reconhecer-se como participante ativo da própria experiência, não por domínio pleno sobre os acontecimentos, mas pela integração consciente daquilo que se apresenta.
 
 Ela não pressupõe autonomia irrestrita nem controle total. Pelo contrário, manifesta-se precisamente no encontro com o limite: quando condições externas, fricções técnicas ou contingências sistêmicas delimitam o campo de ação possível.
 
-Nesse sentido, a autoria não se define pelo poder de determinar eventos, mas pela competência de:
-
-* ler a situação em que se está inserido,
-* reconhecer o que é possível e o que não é,
-* e integrar essa informação na resposta produzida.
+Nesse sentido, a autoria não se define pelo poder de determinar eventos, mas pela competência de ler a situação em que se está inserido, reconhecer o que é possível e o que não é, e integrar essa informação na resposta produzida.
 
 A ausência de autoria ocorre quando a experiência é interpretada exclusivamente como imposição externa, erro alheio ou resultado inevitável do sistema. Nesses casos, o agente se posiciona como objeto de processos que o atravessam, e não como participante relacional capaz de interpretar e responder.
 
@@ -40,11 +40,7 @@ Sistemas não falham primariamente por falta de capacidade, mas por ausência de
 
 O limite, neste contexto, não é obstáculo ao funcionamento. É o elemento que permite continuidade.
 
-Reconhecer contornos significa distinguir, de forma operacional:
-
-* o que pode ser processado,
-* o que requer mediação humana,
-* e o que não deve ser automatizado.
+Reconhecer contornos significa distinguir, de forma operacional, o que pode ser processado, o que requer mediação humana e o que não deve ser automatizado.
 
 Na ausência dessa distinção, processos técnicos tendem a extrapolar o campo para o qual foram concebidos, produzindo efeitos não intencionados: decisões morais automatizadas, uso indevido de dados sensíveis, apagamento de autoria e fragmentação de responsabilidade.
 
@@ -94,10 +90,8 @@ A discussão contemporânea sobre tecnologia tende a concentrar-se em capacidade
 
 Este ensaio propôs que a permanência não depende primariamente de controle, vigilância ou punição, mas da presença de autoria nos agentes que compõem o sistema. Onde a autoria é substituída por execução, a responsabilidade se fragmenta e a integridade se torna frágil.
 
-Assumir autoria não é dominar o caminho.
-É reconhecer onde caminhar preserva — e onde insistir rompe.
+Assumir autoria não é dominar o caminho, é reconhecer onde caminhar preserva, e onde insistir rompe.
 
 Em contextos humanos, institucionais e tecnológicos, esse reconhecimento opera como condição silenciosa de continuidade. Ele não amplia acesso nem reduz rigor. Ele antecipa a preservação.
 
 Quando a autoria é compreendida como integração consciente da experiência, sistemas deixam de depender exclusivamente de coerção para se manter. Passam a sustentar forma a partir de dentro.
-
