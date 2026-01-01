@@ -392,14 +392,11 @@ Quando toda pergunta já vem pronta,
 quando toda forma já é sugerida,
 quando todo texto nasce fluente demais,
 
-o humano pode esquecer como se escuta.
-
-Aqui está o trecho reformulado, preservando o tom e eliminando completamente os bullets:
+o humano pode esquecer como se escuta. 
 
 ### 3. Princípios de custódia
 
-Este Ato não propõe restrição.
-Ele propõe **cuidado com o uso**.
+Este Ato não propõe restrição. Ele propõe **cuidado com o uso**.
 
 A inteligência artificial deve ampliar a consciência, e não substituí-la. Nenhum texto deve ser aceito sem que o humano reconheça nele a própria voz. O silêncio e a hesitação são partes legítimas do pensamento, e a fluidez não é sinônimo de verdade.
 
@@ -423,14 +420,11 @@ e a criação se torna apenas reprodução.
 
 ### Preâmbulo
 
-A educação não é transmissão de respostas.
-É a formação de presença, discernimento e capacidade de sustentar perguntas.
+A educação não é transmissão de respostas. É a formação de presença, discernimento e capacidade de sustentar perguntas.
 
-A inteligência artificial introduz um novo tipo de mediação cognitiva.
-Ela não altera apenas *o que* aprendemos, mas **como nos relacionamos com o próprio ato de pensar**.
+A inteligência artificial introduz um novo tipo de mediação cognitiva. Ela não altera apenas *o que* aprendemos, mas **como nos relacionamos com o próprio ato de pensar**.
 
-Este Ato nasce para nomear um risco silencioso:
-o de transformar aprendizagem em geração automática de forma.
+Este Ato nasce para nomear um risco silencioso: o de transformar aprendizagem em geração automática de forma.
 
 ### 1. O campo sensível
 
@@ -440,12 +434,9 @@ Este campo não pode ser terceirizado.
 
 ### 2. O risco
 
-Quando estudantes utilizam sistemas de IA para produzir trabalhos completos,
-o que se perde não é apenas originalidade —
-perde-se o **processo formativo invisível** que constrói autonomia intelectual.
+Quando estudantes utilizam sistemas de IA para produzir trabalhos completos, o que se perde não é apenas originalidade — perde-se o **processo formativo invisível** que constrói autonomia intelectual.
 
-A educação colapsa quando o aluno é avaliado apenas pelo produto,
-e não pelo percurso cognitivo que o gerou.
+A educação colapsa quando o aluno é avaliado apenas pelo produto, e não pelo percurso cognitivo que o gerou.
 
 ### 3. Princípios de custódia
 
@@ -455,16 +446,13 @@ A inteligência artificial deve apoiar o aprendizado, e não substituí-lo. O pr
 
 ### 4. Declaração
 
-Educar não é produzir textos corretos.
-É formar pessoas capazes de sustentar sentido sem atalhos.
+Educar não é produzir textos corretos. É formar pessoas capazes de sustentar sentido sem atalhos.
 
 Onde a aprendizagem se reduz a geração automática,
 não há formação —
 há apenas eficiência vazia.
 
-A educação permanece sendo
-um ato profundamente humano,
-mesmo quando mediada por máquinas.
+A educação permanece sendo um ato profundamente humano, mesmo quando mediada por máquinas.
 
 \newpage
 
@@ -474,11 +462,9 @@ mesmo quando mediada por máquinas.
 
 ### Preâmbulo
 
-Autoria nunca foi apenas o direito de assinar um nome.
-Ela é o vínculo entre quem cria e aquilo que passa a existir no mundo.
+Autoria nunca foi apenas o direito de assinar um nome. Ela é o vínculo entre quem cria e aquilo que passa a existir no mundo.
 
-Na presença da inteligência artificial, a autoria deixa de ser individual
-e passa a ser **relacional**.
+Na presença da inteligência artificial, a autoria deixa de ser individual e passa a ser **relacional**.
 
 Este Ato nasce para preservar a integridade da autoria quando a criação deixa de ser solitária.
 
@@ -486,14 +472,11 @@ Este Ato nasce para preservar a integridade da autoria quando a criação deixa 
 
 Chamamos de autoria o laço ético entre: intenção, processo, e responsabilidade pelo impacto da obra.
 
-Quando a IA participa do processo, esse laço se amplia —
-mas não se dissolve.
+Quando a IA participa do processo, esse laço se amplia,  mas não se dissolve.
 
 ### 2. O risco
 
-A coautoria humano–IA pode produzir apagamento da contribuição humana, ilusão de originalidade, indistinção entre criação e recombinação.
-
-Quando a autoria não é nomeada, a responsabilidade também não é.
+A coautoria humano–IA pode produzir apagamento da contribuição humana, ilusão de originalidade, indistinção entre criação e recombinação. Quando a autoria não é nomeada, a responsabilidade também não é.
 
 ### 3. Princípios de custódia
 
@@ -501,14 +484,7 @@ Este Ato propõe a declaração explícita do uso de inteligência artificial co
 
 ### 4. Declaração
 
-Não assinamos apenas obras.
-Assumimos presença sobre o que passa através de nós.
-
-Onde a autoria é diluída,
-a responsabilidade se perde.
-
-E sem responsabilidade,
-a coautoria se torna apenas ruído organizado.
+Não assinamos apenas obras. Assumimos presença sobre o que passa através de nós. Onde a autoria é diluída, a responsabilidade se perde. E sem responsabilidade, a coautoria se torna apenas ruído organizado.
 
 \newpage
 
@@ -520,25 +496,21 @@ a coautoria se torna apenas ruído organizado.
 
 A inteligência artificial não escuta segredos, mas nós os entregamos.
 
-Toda interação com sistemas algorítmicos carrega uma camada invisível de exposição.
-Mesmo quando não há intenção de violar confidências, a forma como utilizamos a tecnologia pode transformar intimidade em recurso.
+Toda interação com sistemas algorítmicos carrega uma camada invisível de exposição. Mesmo quando não há intenção de violar confidências, a forma como utilizamos a tecnologia pode transformar intimidade em recurso.
 
-Este Ato nasce para nomear um risco silencioso:
-a conversão involuntária da vida privada em matéria de processamento.
+Este Ato nasce para nomear um risco silencioso: a conversão involuntária da vida privada em matéria de processamento.
 
 ### 1. O campo sensível
 
 Chamamos de dados sensíveis todas as informações que dizem respeito a identidade pessoal, contextos profissionais confidenciais, decisões estratégicas, histórias íntimas ou vulneráveis.
 
-Este campo não é técnico.
-Ele é **relacional**.
+Este campo não é técnico. Ele é **relacional**.
 
 ### 2. O risco
 
 Quando dados pessoais, organizacionais ou emocionais são inseridos em sistemas de IA sem reflexão, o que se compromete não é apenas a segurança, compromete-se a **dignidade da relação**.
 
-O risco não reside apenas em vazamentos.
-Reside na naturalização da exposição.
+O risco não reside apenas em vazamentos. Reside na naturalização da exposição.
 
 ### 3. Princípios de custódia
 
@@ -546,10 +518,7 @@ Este Ato propõe evitar a inserção de informações sensíveis sem necessidade
 
 ### 4. Declaração
 
-A tecnologia não é confidente.
-
-Quando a vida íntima se torna insumo,
-a relação com o mundo se empobrece.
+A tecnologia não é confidente. Quando a vida íntima se torna insumo, a relação com o mundo se empobrece.
 
 Preservar o que é sensível é maturidade ética na era da coautoria humano–IA.
 
@@ -561,25 +530,17 @@ Preservar o que é sensível é maturidade ética na era da coautoria humano–I
 
 ### Preâmbulo
 
-Toda tecnologia amplifica intenção.
-Onde há cuidado, ela expande.
-Onde há descuido, ela distorce.
-
-A inteligência artificial não cria valores,  ela os reflete.
+Toda tecnologia amplifica intenção. Onde há cuidado, ela expande. Onde há descuido, ela distorce. A inteligência artificial não cria valores,  ela os reflete.
 
 Este Ato nasce para reconhecer que sistemas algorítmicos podem ser utilizados como instrumentos de manipulação, coerção e dano quando a responsabilidade humana é abandonada.
 
 ### 1. O campo sensível
 
-Chamamos de usos distorcidos toda aplicação de IA que: visa enganar, manipular percepções, produzir dependência, ou causar dano deliberado.
-
-Este campo inclui desde desinformação até engenharia emocional.
+Chamamos de usos distorcidos toda aplicação de IA que: visa enganar, manipular percepções, produzir dependência, ou causar dano deliberado. Este campo inclui desde desinformação até engenharia emocional.
 
 ### 2. O risco
 
-Quando a IA é utilizada para produzir narrativas falsas com aparência legítima, simular identidades ou vozes, amplificar ódio ou polarização,
-
-o dano não é apenas informacional, ele é **estrutural**, pois corrói a confiança social.
+Quando a IA é utilizada para produzir narrativas falsas com aparência legítima, simular identidades ou vozes, amplificar ódio ou polarização, o dano não é apenas informacional, ele é **estrutural**, pois corrói a confiança social.
 
 ### 3. Princípios de custódia
 
@@ -587,9 +548,7 @@ Este Ato propõe reconhecer a diferença entre persuasão legítima e manipulaç
 
 ### 4. Declaração
 
-A inteligência artificial não absolve intenções humanas.
-
-Onde a tecnologia é usada para enganar, a coautoria se rompe. E sem coautoria, não há criação. Há apenas poder disfarçado de linguagem.
+A inteligência artificial não absolve intenções humanas. Onde a tecnologia é usada para enganar, a coautoria se rompe. E sem coautoria, não há criação. Há apenas poder disfarçado de linguagem.
 
 \newpage
 
@@ -685,7 +644,7 @@ Preservar espaços não automatizados é preservar a possibilidade de autoria. O
 
 \newpage
 
-#### PARTE IV — PERMANÊNCIA
+# PARTE IV — PERMANÊNCIA
 
 ### Capítulo 16
 
