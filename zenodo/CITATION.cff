@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Ethics of Coauthorship — Human–AI Responsibility in the Age of Systems"
+version: "Living Draft v1.0"
+date-released: 2026-01-01
+doi: "10.5281/zenodo.18116717"
+authors:
+  - family-names: "da Silva Lutz"
+    given-names: "Débora Mariane"
+    affiliation: "Lichtara Institute"
+abstract: >
+  A foundational essay on human–AI coauthorship, exploring presence, authorship,
+  responsibility, and ethical integrity in complex systems of creation.
