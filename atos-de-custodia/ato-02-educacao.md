@@ -24,12 +24,9 @@ A educação colapsa quando o aluno é avaliado apenas pelo produto, e não pelo
 
 ### 3. Princípios de custódia
 
-Este Ato propõe uma pedagogia de coautoria consciente:
+Este Ato propõe uma pedagogia de coautoria consciente.
 
-* A IA deve apoiar o aprendizado, não substituí-lo.
-* O processo deve ser tão visível quanto o resultado.
-* O erro humano é parte essencial da formação.
-* A mediação tecnológica exige acompanhamento ético.
+A inteligência artificial deve apoiar o aprendizado, e não substituí-lo. O processo precisa ser tão visível quanto o resultado, pois o erro humano é parte essencial da formação. Nesse contexto, a mediação tecnológica exige acompanhamento ético contínuo.
 
 ### 4. Declaração
 
@@ -38,3 +35,4 @@ Educar não é produzir textos corretos. É formar pessoas capazes de sustentar 
 Onde a aprendizagem se reduz a geração automática, não há formação, há apenas eficiência vazia.
 
 A educação permanece sendo um ato profundamente humano, mesmo quando mediada por máquinas.
+
