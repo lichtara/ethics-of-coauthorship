@@ -1,7 +1,4 @@
-## Capítulo 1 — O Colapso da Autoria Moderna
-
-*(PARTE I — O FIM DA AUTORIA COMO POSSE)*
-
+# PARTE I — O FIM DA AUTORIA COMO POSSE
 
 ### Capítulo 1
 
