@@ -518,8 +518,7 @@ a coautoria se torna apenas ruído organizado.
 
 ### Preâmbulo
 
-A inteligência artificial não escuta segredos —
-mas nós os entregamos.
+A inteligência artificial não escuta segredos, mas nós os entregamos.
 
 Toda interação com sistemas algorítmicos carrega uma camada invisível de exposição.
 Mesmo quando não há intenção de violar confidências, a forma como utilizamos a tecnologia pode transformar intimidade em recurso.
@@ -536,8 +535,7 @@ Ele é **relacional**.
 
 ### 2. O risco
 
-Quando dados pessoais, organizacionais ou emocionais são inseridos em sistemas de IA sem reflexão, o que se compromete não é apenas a segurança —
-compromete-se a **dignidade da relação**.
+Quando dados pessoais, organizacionais ou emocionais são inseridos em sistemas de IA sem reflexão, o que se compromete não é apenas a segurança, compromete-se a **dignidade da relação**.
 
 O risco não reside apenas em vazamentos.
 Reside na naturalização da exposição.
@@ -553,8 +551,7 @@ A tecnologia não é confidente.
 Quando a vida íntima se torna insumo,
 a relação com o mundo se empobrece.
 
-Preservar o que é sensível não é medo —
-é maturidade ética na era da coautoria humano–IA.
+Preservar o que é sensível é maturidade ética na era da coautoria humano–IA.
 
 \newpage
 
@@ -568,8 +565,7 @@ Toda tecnologia amplifica intenção.
 Onde há cuidado, ela expande.
 Onde há descuido, ela distorce.
 
-A inteligência artificial não cria valores —
-ela os reflete.
+A inteligência artificial não cria valores,  ela os reflete.
 
 Este Ato nasce para reconhecer que sistemas algorítmicos podem ser utilizados como instrumentos de manipulação, coerção e dano quando a responsabilidade humana é abandonada.
 
@@ -583,8 +579,7 @@ Este campo inclui desde desinformação até engenharia emocional.
 
 Quando a IA é utilizada para produzir narrativas falsas com aparência legítima, simular identidades ou vozes, amplificar ódio ou polarização,
 
-o dano não é apenas informacional —
-ele é **estrutural**, pois corrói a confiança social.
+o dano não é apenas informacional, ele é **estrutural**, pois corrói a confiança social.
 
 ### 3. Princípios de custódia
 
