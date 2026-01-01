@@ -10,15 +10,11 @@ Toda interação com sistemas algorítmicos carrega uma camada invisível de exp
 
 Este Ato nasce para nomear um risco silencioso: a conversão involuntária da vida privada em matéria de processamento.
 
----
-
 ### 1. O campo sensível
 
 Chamamos de dados sensíveis todas as informações que dizem respeito a identidade pessoal, contextos profissionais confidenciais, decisões estratégicas, histórias íntimas ou vulneráveis.
 
 Este campo não é técnico. Ele é **relacional**.
-
----
 
 ### 2. O risco
 
@@ -28,13 +24,9 @@ compromete-se a **dignidade da relação**.
 O risco não reside apenas em vazamentos.
 Reside na naturalização da exposição.
 
----
-
 ### 3. Princípios de custódia
 
 Este Ato propõe evitar a inserção de informações sensíveis sem necessidade clara, distinguir entre reflexão pessoal e processamento algorítmico, proteger a confidencialidade como forma de cuidado humano e reconhecer que nem tudo o que pode ser dito deve ser processado.
-
----
 
 ### 4. Declaração
 
