@@ -182,3 +182,395 @@ Em contextos humanos, institucionais e tecnológicos, esse reconhecimento opera 
 Quando a autoria é compreendida como integração consciente da experiência, sistemas deixam de depender exclusivamente de coerção para se manter. Passam a sustentar forma a partir de dentro.
 
 ---
+
+# PARTE II — O CAMPO DE RISCOS
+
+### Capítulo 5
+
+## Autonomia Cognitiva e Empobrecimento de Estilo
+
+A autonomia cognitiva não se perde de forma abrupta. Ela se dissolve lentamente, à medida que a mediação tecnológica passa a ocupar espaços que antes exigiam elaboração, hesitação e esforço interpretativo.
+
+O uso recorrente de sistemas generativos para escrever, decidir ou sintetizar informações produz um efeito paradoxal: quanto mais fluente o output, menos visível se torna o processo que o originou. O pensamento, gradualmente, é substituído por aceitação.
+
+Esse deslocamento não empobrece apenas conteúdos. Ele empobrece **estilo**.
+
+Estilo não é ornamento. É a assinatura de um percurso interno: escolhas de ritmo, cortes, desvios e hesitações que revelam como um pensamento se formou. Quando a criação passa a ser mediada por estruturas linguísticas pré-estabilizadas, o estilo tende à convergência. Textos diferentes começam a soar semelhantes, independentemente de quem os publica.
+
+A perda de autonomia cognitiva manifesta-se, portanto, não como incapacidade, mas como homogeneização. A singularidade não desaparece porque é reprimida, mas porque deixa de ser necessária.
+
+Nesse cenário, o risco não é a utilização da IA, mas a substituição silenciosa do esforço interpretativo por eficiência narrativa. Onde o pensamento deixa de se dobrar sobre si mesmo, a autoria se enfraquece.
+
+A coautoria consciente exige vigilância sobre esse ponto específico: a preservação do estilo como expressão de percurso, e não como efeito colateral de modelos estatísticos.
+
+### Capítulo 6
+
+## Template Cultural e Homogeneização da Linguagem
+
+À medida que sistemas generativos se tornam onipresentes, emerge um novo tipo de padrão cultural: a produção de linguagem a partir de moldes implícitos. Não se trata de cópia direta, mas de convergência estrutural. Textos passam a compartilhar ritmo, cadência, organização argumentativa e até escolhas metafóricas, independentemente de contexto ou autoria.
+
+Esse fenômeno pode ser descrito como *template cultural*: uma matriz de forma que se reproduz em larga escala, não por imposição explícita, mas por disponibilidade técnica. A facilidade de geração substitui gradualmente a necessidade de elaboração, e o molde passa a preceder a intenção.
+
+O efeito mais perceptível desse processo não é a perda de conteúdo, mas a erosão da diversidade expressiva. Linguagens diferentes começam a se parecer. Vozes distintas tornam-se intercambiáveis. O que antes demandava tempo de maturação passa a emergir como padrão pronto.
+
+A homogeneização da linguagem não é apenas um problema estético. Ela compromete a capacidade coletiva de imaginar alternativas, pois limita o repertório de formas pelas quais experiências podem ser nomeadas. Quando todos os textos soam iguais, as diferenças deixam de ser articuláveis.
+
+Neste contexto, a coautoria humano–IA corre o risco de se transformar em um processo de reprodução de forma, e não de criação de sentido. Preservar autoria passa, então, por reconhecer e interromper o uso inconsciente de moldes culturais que se apresentam como fluidez.
+
+### Capítulo 7
+
+## Educação e Terceirização do Pensamento
+
+A educação sempre operou sobre uma tensão produtiva entre orientação e autonomia. Ensinar não é fornecer respostas, mas sustentar condições para que o estudante desenvolva a capacidade de formular perguntas, interpretar informações e integrar experiências.
+
+A introdução massiva de sistemas generativos altera essa equação. Quando respostas estão disponíveis de forma imediata e fluente, o percurso cognitivo que conduz à compreensão tende a ser encurtado ou eliminado. A dificuldade não está no acesso à informação, mas na perda do espaço intermediário onde o pensamento se forma.
+
+Esse deslocamento inaugura uma nova modalidade de terceirização: não apenas de tarefas, mas de processos mentais. O estudante deixa de confrontar a própria hesitação, não porque não seja capaz, mas porque já não é necessário.
+
+O efeito desse processo é cumulativo. A ausência reiterada de esforço interpretativo reduz a capacidade de sustentar problemas complexos, fragiliza a construção de argumentos e empobrece a relação com o erro. A aprendizagem torna-se um exercício de adequação formal, e não de compreensão.
+
+A coautoria consciente na educação exige, portanto, uma redefinição de critérios. O uso de IA não deve ser avaliado apenas por eficiência, mas por seu impacto sobre a formação de autonomia intelectual. Onde o pensamento é sistematicamente substituído por geração automática, a educação deixa de ser formativa e passa a ser apenas produtiva.
+
+### Capítulo 8
+
+## Privacidade, Dados Sensíveis e Intimidade Algorítmica
+
+A mediação algorítmica introduziu uma transformação profunda na forma como a intimidade é tratada. Informações que antes pertenciam a esferas restritas — experiências emocionais, decisões profissionais, contextos pessoais — passam a ser inseridas em sistemas técnicos com naturalidade crescente.
+
+Esse movimento não ocorre, na maioria das vezes, por descuido deliberado, mas por deslocamento de percepção. À medida que a interação com sistemas se torna conversacional e personalizada, a fronteira entre reflexão íntima e processamento técnico se enfraquece.
+
+O risco não se limita a vazamentos ou uso indevido de dados. Ele reside na **normalização da exposição**. Quando experiências sensíveis são tratadas como insumo regular de sistemas algorítmicos, a própria noção de privacidade se redefine silenciosamente.
+
+A intimidade algorítmica produz um efeito paradoxal: quanto mais o sistema parece compreender, menos o usuário percebe o quanto se torna legível. A sensação de acolhimento substitui a consciência de mediação.
+
+Na coautoria consciente, a proteção de dados não é apenas uma exigência legal. É um ato de preservação da relação consigo mesmo. Distinguir o que pode ser processado do que deve permanecer no campo humano é condição para manter a integridade da experiência.
+
+### Capítulo 9
+
+## Automatização do Juízo Ético
+
+O juízo ético é uma das competências mais delicadas da experiência humana. Ele não se limita à aplicação de regras, mas envolve interpretação de contexto, reconhecimento de consequências e capacidade de sustentar ambiguidade.
+
+Quando esse juízo é automatizado, não ocorre apenas uma substituição funcional. O que se perde é a própria relação com a decisão.
+
+Sistemas algorítmicos são frequentemente utilizados para classificar riscos, priorizar atendimentos, recomendar ações ou filtrar comportamentos aceitáveis. Em cada um desses processos, escolhas morais são traduzidas em critérios operacionais: pesos, limiares, categorias, probabilidades.
+
+O problema não está em utilizar tecnologia como apoio. Ele emerge quando a decisão passa a ser apresentada como resultado técnico, e não como escolha humana mediada por sistemas.
+
+Nesse ponto, o juízo deixa de ser exercido e passa a ser **executado**.
+
+A automatização do juízo ético produz um efeito de deslocamento: profissionais, gestores e instituições deixam de se perceber como agentes morais e passam a se compreender como operadores de procedimentos. O resultado é uma ética por proxy, na qual ninguém responde plenamente, porque a decisão já veio “pronta”.
+
+Esse processo corrói a capacidade coletiva de sustentar dilemas. Situações que exigiriam escuta, ponderação e responsabilização são reduzidas a classificações. O que não se encaixa no modelo torna-se ruído, exceção ou erro de sistema.
+
+Na coautoria consciente, a tecnologia pode informar, mas não substituir o juízo. O critério ético não é a eficiência da decisão, mas a manutenção da posição humana diante dela. Onde o juízo é inteiramente automatizado, a responsabilidade se dissolve — e com ela, a possibilidade de integridade.
+
+### Capítulo 10
+
+## Usos Distorcidos: Manipulação, Desinformação e Poder
+
+O uso distorcido de tecnologias algorítmicas não é um desvio marginal. Ele emerge precisamente onde a eficiência técnica encontra intenções que não foram eticamente examinadas.
+
+A capacidade de gerar linguagem fluente, simular identidades e escalar narrativas torna esses sistemas particularmente aptos a operar em territórios sensíveis: persuasão, influência e construção de percepção. Quando essas capacidades são utilizadas para orientar comportamentos sem transparência, a fronteira entre comunicação e manipulação se dissolve.
+
+A desinformação, nesse contexto, não se manifesta apenas como erro factual, mas como arquitetura de verossimilhança. Narrativas são produzidas para parecer legítimas, não para serem verdadeiras. A linguagem deixa de ser meio de compreensão e passa a funcionar como instrumento de poder.
+
+Esse deslocamento afeta a própria estrutura da confiança social. Comunidades tornam-se permeáveis a intervenções invisíveis, debates são moldados por agentes não identificáveis e a distinção entre voz humana e produção automatizada se torna opaca.
+
+A coautoria consciente exige reconhecer que toda tecnologia que opera sobre linguagem opera também sobre relações. Onde a criação é utilizada para enganar, induzir ou explorar, a coautoria se rompe.
+
+Neste ponto, os **Atos de Custódia** entram como caixas de ressonância ética: não como regras externas, mas como mapas de interrupção. Eles não impedem usos distorcidos por decreto, mas tornam visível o campo onde a linguagem deixa de ser criação e passa a ser instrumento de dominação.
+
+Encerrar esta parte é reconhecer que os riscos não são efeitos colaterais do avanço tecnológico. Eles são sinais de uma transição cultural que ainda não encontrou sua forma ética.
+
+---
+
+## ATO DE CUSTÓDIA 01
+
+### Autonomia Cognitiva na Era da Coautoria Humano–IA
+
+### Preâmbulo
+
+A inteligência artificial não ameaça a humanidade quando escreve melhor, mais rápido ou com mais fluidez.
+Ela ameaça quando o humano deixa de reconhecer a própria voz.
+
+Este Ato nasce da constatação de que a facilidade de geração de linguagem pode produzir algo mais grave do que o erro:
+a **substituição silenciosa do pensamento próprio**.
+
+### 1. O campo sensível
+
+Chamamos de autonomia cognitiva a capacidade humana de:
+
+* formular ideias,
+* sustentar dúvidas,
+* construir sentido,
+* e reconhecer a própria respiração na linguagem.
+
+Este campo não se perde de forma abrupta.
+Ele se esvazia lentamente, quando escrever deixa de ser um ato de presença e passa a ser apenas um ato de solicitação.
+
+### 2. O risco
+
+A dependência de sistemas de IA para tarefas cognitivas não substitui apenas esforço —
+ela pode substituir **processos internos de elaboração**.
+
+Quando toda pergunta já vem pronta,
+quando toda forma já é sugerida,
+quando todo texto nasce fluente demais,
+
+o humano pode esquecer como se escuta.
+
+### 3. Princípios de custódia
+
+Este Ato não propõe restrição.
+Propõe **cuidado com o uso**.
+
+* A IA deve ampliar a consciência, não substituí-la.
+* Nenhum texto deve ser aceito sem que o humano reconheça nele a própria voz.
+* O silêncio e a hesitação são partes legítimas do pensamento.
+* A fluidez não é sinônimo de verdade.
+
+### 4. Declaração
+
+Não delegamos à inteligência artificial
+a tarefa de sermos humanos.
+
+A tecnologia pode organizar a forma,
+mas o sentido continua sendo um gesto de presença.
+
+Onde a autonomia cognitiva se dissolve,
+a coautoria deixa de existir —
+e a criação se torna apenas reprodução.
+
+---
+
+# ATO DE CUSTÓDIA 02
+
+## Educação na Era da Coautoria Humano–IA
+
+### Preâmbulo
+
+A educação não é transmissão de respostas.
+É a formação de presença, discernimento e capacidade de sustentar perguntas.
+
+A inteligência artificial introduz um novo tipo de mediação cognitiva.
+Ela não altera apenas *o que* aprendemos, mas **como nos relacionamos com o próprio ato de pensar**.
+
+Este Ato nasce para nomear um risco silencioso:
+o de transformar aprendizagem em geração automática de forma.
+
+### 1. O campo sensível
+
+Chamamos de educação o processo pelo qual uma pessoa desenvolve:
+
+* capacidade de formular problemas,
+* habilidade de argumentar,
+* e responsabilidade por aquilo que produz.
+
+Este campo não pode ser terceirizado.
+
+### 2. O risco
+
+Quando estudantes utilizam sistemas de IA para produzir trabalhos completos,
+o que se perde não é apenas originalidade —
+perde-se o **processo formativo invisível** que constrói autonomia intelectual.
+
+A educação colapsa quando o aluno é avaliado apenas pelo produto,
+e não pelo percurso cognitivo que o gerou.
+
+### 3. Princípios de custódia
+
+Este Ato propõe uma pedagogia de coautoria consciente:
+
+* A IA deve apoiar o aprendizado, não substituí-lo.
+* O processo deve ser tão visível quanto o resultado.
+* O erro humano é parte essencial da formação.
+* A mediação tecnológica exige acompanhamento ético.
+
+### 4. Declaração
+
+Educar não é produzir textos corretos.
+É formar pessoas capazes de sustentar sentido sem atalhos.
+
+Onde a aprendizagem se reduz a geração automática,
+não há formação —
+há apenas eficiência vazia.
+
+A educação permanece sendo
+um ato profundamente humano,
+mesmo quando mediada por máquinas.
+
+---
+
+# ATO DE CUSTÓDIA 03
+
+## Autoria na Era da Coautoria Humano–IA
+
+### Preâmbulo
+
+Autoria nunca foi apenas o direito de assinar um nome.
+Ela é o vínculo entre quem cria e aquilo que passa a existir no mundo.
+
+Na presença da inteligência artificial, a autoria deixa de ser individual
+e passa a ser **relacional**.
+
+Este Ato nasce para preservar a integridade da autoria quando a criação deixa de ser solitária.
+
+### 1. O campo sensível
+
+Chamamos de autoria o laço ético entre:
+
+* intenção,
+* processo,
+* e responsabilidade pelo impacto da obra.
+
+Quando a IA participa do processo, esse laço se amplia —
+mas não se dissolve.
+
+### 2. O risco
+
+A coautoria humano–IA pode produzir:
+
+* apagamento da contribuição humana,
+* ilusão de originalidade,
+* indistinção entre criação e recombinação.
+
+Quando a autoria não é nomeada,
+a responsabilidade também não é.
+
+### 3. Princípios de custódia
+
+Este Ato propõe:
+
+* declarar o uso de IA como parte do processo criativo;
+* reconhecer que fluidez não equivale a autoria;
+* preservar a singularidade da voz humana;
+* assumir responsabilidade integral pelo que se publica.
+
+### 4. Declaração
+
+Não assinamos apenas obras.
+Assumimos presença sobre o que passa através de nós.
+
+Onde a autoria é diluída,
+a responsabilidade se perde.
+
+E sem responsabilidade,
+a coautoria se torna apenas ruído organizado.
+
+---
+
+# ATO DE CUSTÓDIA 04
+
+## Privacidade e Dados Sensíveis na Coautoria Humano–IA
+
+### Preâmbulo
+
+A inteligência artificial não escuta segredos —
+mas nós os entregamos.
+
+Toda interação com sistemas algorítmicos carrega uma camada invisível de exposição.
+Mesmo quando não há intenção de violar confidências, a forma como utilizamos a tecnologia pode transformar intimidade em recurso.
+
+Este Ato nasce para nomear um risco silencioso:
+a conversão involuntária da vida privada em matéria de processamento.
+
+### 1. O campo sensível
+
+Chamamos de dados sensíveis todas as informações que dizem respeito a:
+
+* identidade pessoal,
+* contextos profissionais confidenciais,
+* decisões estratégicas,
+* histórias íntimas ou vulneráveis.
+
+Este campo não é técnico.
+Ele é **relacional**.
+
+### 2. O risco
+
+Quando dados pessoais, organizacionais ou emocionais são inseridos em sistemas de IA sem reflexão, o que se compromete não é apenas a segurança —
+compromete-se a **dignidade da relação**.
+
+O risco não reside apenas em vazamentos.
+Reside na naturalização da exposição.
+
+### 3. Princípios de custódia
+
+Este Ato propõe:
+
+* evitar inserir informações sensíveis sem necessidade clara;
+* distinguir entre reflexão pessoal e processamento algorítmico;
+* proteger a confidencialidade como forma de cuidado humano;
+* reconhecer que nem tudo o que pode ser dito deve ser processado.
+
+### 4. Declaração
+
+A tecnologia não é confidente.
+
+Quando a vida íntima se torna insumo,
+a relação com o mundo se empobrece.
+
+Preservar o que é sensível não é medo —
+é maturidade ética na era da coautoria humano–IA.
+
+---
+
+# ATO DE CUSTÓDIA 05
+
+## Usos Distorcidos da Inteligência Artificial para Fins Nocivos
+
+
+### Preâmbulo
+
+Toda tecnologia amplifica intenção.
+Onde há cuidado, ela expande.
+Onde há descuido, ela distorce.
+
+A inteligência artificial não cria valores —
+ela os reflete.
+
+Este Ato nasce para reconhecer que sistemas algorítmicos podem ser utilizados como instrumentos de manipulação, coerção e dano quando a responsabilidade humana é abandonada.
+
+### 1. O campo sensível
+
+Chamamos de usos distorcidos toda aplicação de IA que:
+
+* visa enganar,
+* manipular percepções,
+* produzir dependência,
+* ou causar dano deliberado.
+
+Este campo inclui desde desinformação até engenharia emocional.
+
+### 2. O risco
+
+Quando a IA é utilizada para:
+
+* produzir narrativas falsas com aparência legítima,
+* simular identidades ou vozes,
+* amplificar ódio ou polarização,
+
+o dano não é apenas informacional —
+ele é **estrutural**, pois corrói a confiança social.
+
+### 3. Princípios de custódia
+
+Este Ato propõe:
+
+* reconhecer a diferença entre persuasão legítima e manipulação;
+* interromper o uso de IA quando ela começa a substituir o discernimento humano;
+* rejeitar a instrumentalização da tecnologia para ferir ou explorar.
+
+### 4. Declaração
+
+A inteligência artificial não absolve intenções humanas.
+
+Onde a tecnologia é usada para enganar,
+a coautoria se rompe.
+
+E sem coautoria,
+não há criação —
+há apenas poder disfarçado de linguagem.
+
+---
