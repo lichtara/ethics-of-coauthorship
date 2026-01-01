@@ -61,7 +61,7 @@ Se esta pergunta ressoa em você, este livro já começou.
 
 # PARTE I — O FIM DA AUTORIA COMO POSSE
 
-### Capítulo 1 
+### Capítulo 1
 
 ## O Colapso da Autoria Moderna
 
@@ -390,10 +390,7 @@ ela pode substituir **processos internos de elaboração**.
 
 Quando toda pergunta já vem pronta,
 quando toda forma já é sugerida,
-quando todo texto nasce fluente demais,
-
-o humano pode esquecer como se escuta. 
-
+quando todo texto nasce fluente demais,o humano pode esquecer como se escuta.
 ### 3. Princípios de custódia
 
 Este Ato não propõe restrição. Ele propõe **cuidado com o uso**.
