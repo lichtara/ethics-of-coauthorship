@@ -7,7 +7,6 @@ doi: "10.5281/zenodo.18116717"
 language: "pt-BR"
 ---
 
-\newpage
 
 # Ethics of Coauthorship — Human–AI Responsibility in the Age of Systems
 
