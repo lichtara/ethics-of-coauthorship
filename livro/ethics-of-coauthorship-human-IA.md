@@ -176,10 +176,6 @@ Este ensaio propõe uma alternativa conceitual: a **Autoria Existencial** como p
 
 Essa redefinição não elimina a responsabilidade jurídica nem a necessidade de governança, mas oferece um fundamento mais adequado para pensar autoria, tecnologia e ética em ambientes onde o controle total já não é viável.
 
-Perfeito, vamos reformular este trecho eliminando completamente os bullets e preservando o tom técnico.
-
-Segue a versão pronta para substituir o bloco inteiro:
-
 ## 2. O que é Autoria Existencial
 
 A Autoria Existencial designa a capacidade de um agente reconhecer-se como participante ativo da própria experiência, não por domínio pleno sobre os acontecimentos, mas pela integração consciente daquilo que se apresenta.
@@ -652,7 +648,7 @@ Preservar espaços não automatizados é preservar a possibilidade de autoria. O
 
 \newpage
 
-# **PARTE IV — PERMANÊNCIA**
+# PARTE IV — PERMANÊNCIA
 
 ### Capítulo 16
 
