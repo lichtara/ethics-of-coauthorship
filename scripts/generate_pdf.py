@@ -1,8 +1,13 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import os
 import re
 from pathlib import Path
+
+# Ensure print dependencies are discoverable on macOS/Homebrew setups.
+os.environ.setdefault("DYLD_LIBRARY_PATH", "/opt/homebrew/lib")
+os.environ.setdefault("PKG_CONFIG_PATH", "/opt/homebrew/lib/pkgconfig")
 
 import markdown
 from weasyprint import CSS, HTML
@@ -14,6 +19,7 @@ FONT_DIR = ROOT / "assets" / "fonts"
 
 COVER_HTML = """
 <div class="cover">
+  <div class="cover-vfill"></div>
   <div class="cover-content">
     <div class="cover-title">Ethics of Coauthorship — Human–AI Responsibility in the Age of Systems</div>
     <div class="cover-subtitle">Living Draft v1.0 – 2026</div>
@@ -21,6 +27,7 @@ COVER_HTML = """
     <div class="cover-institution">Lichtara Institute</div>
     <div class="cover-doi">DOI: 10.5281/zenodo.18116717</div>
   </div>
+  <div class="cover-vfill"></div>
 </div>
 <div class="page-break"></div>
 """
@@ -49,17 +56,29 @@ body {{
   font-family: 'Inter', sans-serif;
   line-height: 1.5;
   text-align: justify;
+  margin: 0;
+  padding: 0;
   hyphens: none;
-  word-break: normal;
+  -webkit-hyphens: none;
+  -ms-hyphens: none;
+  word-break: keep-all;
   overflow-wrap: normal;
   white-space: normal;
 }}
 .cover {{
   display: flex;
+  flex-direction: column;
+  min-height: 100vh;
   align-items: center;
-  justify-content: center;
   text-align: center;
-  height: 100vh;
+}}
+.cover-content {{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}}
+.cover-vfill {{
+  flex: 1;
 }}
 .cover-title {{
   font-size: 22pt;
@@ -83,6 +102,7 @@ body {{
 }}
 .page-break {{
   page-break-before: always;
+  break-before: page;
 }}
 h1, h2, h3 {{
   page-break-after: avoid;
@@ -98,6 +118,10 @@ def strip_front_matter(text: str) -> str:
     return text
 
 
+def remove_leading_newpage(text: str) -> str:
+    return re.sub(r"^\\s*\\\\newpage\\s*", "", text, count=1)
+
+
 def remove_main_title(text: str) -> str:
     title_pattern = re.compile(r"^#\s+Ethics of Coauthorship — Human–AI Responsibility in the Age of Systems\s*$\n", re.MULTILINE)
     return title_pattern.sub("", text, count=1)
@@ -110,6 +134,7 @@ def convert_newpages(text: str) -> str:
 def main() -> None:
     content = SOURCE.read_text(encoding="utf-8")
     content = strip_front_matter(content)
+    content = remove_leading_newpage(content)
     content = remove_main_title(content)
     content = convert_newpages(content)
 
