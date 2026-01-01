@@ -13,13 +13,13 @@ language: "pt-BR"
 
 # Introdução
 
-Há alguns anos, a pergunta dominante sobre inteligência artificial era técnica: *o que essas máquinas conseguem fazer?* Hoje, essa pergunta já não é suficiente. À medida que sistemas algorítmicos passam a mediar escrita, decisão, criação e interação social, algo mais profundo se desloca: não apenas as capacidades humanas, mas a própria **posição de autoria** no mundo.
+Há alguns anos, a pergunta dominante sobre inteligência artificial era técnica: *o que essas máquinas conseguem fazer?* Hoje, essa pergunta já não é suficiente. À medida que sistemas algorítmicos passam a mediar escrita, decisão, criação e interação social, algo mais profundo se desloca: não apenas as capacidades humanas, mas a própria posição de autoria no mundo.
 
 Criamos mais, mais rápido, com menos fricção, mas começamos a reconhecer cada vez menos a nossa própria voz naquilo que produzimos. Este livro não parte da tecnologia. Ele parte de uma inquietação humana: a sensação de que estamos nos tornando espectadores de processos que ainda chamamos de nossos.
 
 A coautoria humano–IA não é um problema técnico. É um problema existencial, cultural e ético. Quando um texto é gerado por um sistema, quem responde por ele? Quando uma decisão é automatizada, quem sustenta suas consequências? Quando a linguagem se torna fluente demais, o que acontece com a singularidade da expressão?
 
-Essas perguntas não pedem soluções imediatas. Elas pedem **posição**.
+Essas perguntas não pedem soluções imediatas. Elas pedem posição.
 
 *Ethics of Coauthorship* não propõe regras nem receitas de uso. Ele propõe algo mais difícil: a recuperação da autoria como presença. Aqui, a ética não aparece como um conjunto de proibições, mas como a capacidade de sustentar forma, limite e responsabilidade em ambientes onde o controle total já não é possível.
 
@@ -41,7 +41,7 @@ Esse modelo se sustentava sobre três pressupostos silenciosos: que o processo c
 
 A mediação tecnológica fragmentou o percurso entre intenção e resultado. Sistemas de recomendação, modelos generativos, cadeias automatizadas de publicação e infraestruturas opacas de distribuição romperam a linearidade da criação. O que emerge no mundo já não é consequência direta de uma decisão única, mas o efeito composto de múltiplas camadas técnicas e institucionais.
 
-Nesse contexto, a autoria deixa de ser um ponto de origem e passa a ser um campo difuso. Textos circulam sem clareza de procedência, decisões são atribuídas a sistemas e a responsabilidade se dispersa por arquiteturas que ninguém controla integralmente. O colapso da autoria moderna não é a perda da criatividade. É a perda de **posição**.
+Nesse contexto, a autoria deixa de ser um ponto de origem e passa a ser um campo difuso. Textos circulam sem clareza de procedência, decisões são atribuídas a sistemas e a responsabilidade se dispersa por arquiteturas que ninguém controla integralmente. O colapso da autoria moderna não é a perda da criatividade. É a perda de posição.
 
 Quando não é mais possível identificar onde começa uma escolha e termina uma execução, o sujeito criador se transforma em operador de processos que já não compreende plenamente. A obra continua a existir, mas a relação ética com ela se enfraquece.
 
@@ -55,7 +55,7 @@ Este é o terreno onde a coautoria humano–IA se instala: não como inovação 
 
 A linguagem cotidiana sugere que sistemas tecnológicos “decidem”, “escolhem” ou “avaliam”. Essa forma de falar não é apenas imprecisa — ela encobre o fato fundamental de que todo sistema opera a partir de valores previamente incorporados por agentes humanos e instituições.
 
-Nenhum modelo é neutro. Antes de qualquer linha de código, uma série de escolhas já foi realizada: quais dados são considerados legítimos, quais objetivos são priorizados, quais erros são aceitáveis e quais consequências são toleradas. Essas escolhas não são técnicas no sentido estrito. São **decisões normativas traduzidas em parâmetros operacionais**.
+Nenhum modelo é neutro. Antes de qualquer linha de código, uma série de escolhas já foi realizada: quais dados são considerados legítimos, quais objetivos são priorizados, quais erros são aceitáveis e quais consequências são toleradas. Essas escolhas não são técnicas no sentido estrito. São decisões normativas traduzidas em parâmetros operacionais.
 
 Quando um sistema classifica, recomenda, filtra ou gera conteúdo, ele não está exercendo juízo próprio. Ele está executando um conjunto de critérios que refletem concepções implícitas sobre relevância, normalidade, eficiência e sucesso. O que se apresenta como cálculo é, na verdade, a automatização de preferências humanas tornadas invisíveis.
 
@@ -69,13 +69,13 @@ Compreender que sistemas não decidem, mas executam valores, é o primeiro passo
 
 ## Quando “o Sistema” vira álibi
 
-À medida que decisões passam a ser mediadas por infraestruturas técnicas cada vez mais complexas, emerge um fenômeno recorrente: a transferência implícita de responsabilidade para a entidade abstrata chamada “o sistema”. Expressões como *“foi o algoritmo”*, *“o sistema decidiu”* ou *“não temos controle sobre isso”* tornam-se formas socialmente aceitas de encerrar a discussão ética. Elas não descrevem um fato técnico. Elas cumprem uma função discursiva: **interrompem a atribuição de autoria**.
+À medida que decisões passam a ser mediadas por infraestruturas técnicas cada vez mais complexas, emerge um fenômeno recorrente: a transferência implícita de responsabilidade para a entidade abstrata chamada “o sistema”. Expressões como *“foi o algoritmo”*, *“o sistema decidiu”* ou *“não temos controle sobre isso”* tornam-se formas socialmente aceitas de encerrar a discussão ética. Elas não descrevem um fato técnico. Elas cumprem uma função discursiva: interrompem a atribuição de autoria.
 
 Quando um resultado é apresentado como efeito automático de um sistema, o encadeamento de escolhas humanas que o produziu desaparece. A organização se torna operadora de uma infraestrutura que supostamente escapa à sua própria governança. O agente humano não se reconhece mais como parte da decisão, mas como vítima de uma lógica que ele mesmo ajudou a instituir.
 
 Esse deslocamento tem consequências profundas. Ele cria ambientes nos quais ninguém responde integralmente por efeitos danosos, porque cada elo da cadeia pode alegar apenas estar executando procedimentos previamente definidos. A autoria se fragmenta em micro-responsabilidades que, somadas, não produzem responsabilidade alguma.
 
-Nesse cenário, o sistema deixa de ser instrumento e passa a funcionar como **álibi**. Ele legitima ações sem que seja necessário justificar valores, prioridades ou impactos. A linguagem técnica substitui a deliberação ética.
+Nesse cenário, o sistema deixa de ser instrumento e passa a funcionar como álibi. Ele legitima ações sem que seja necessário justificar valores, prioridades ou impactos. A linguagem técnica substitui a deliberação ética.
 
 Reconhecer esse mecanismo é essencial para qualquer ética da coautoria. Enquanto “o sistema” continuar sendo tratado como sujeito de decisões, a possibilidade de reconstruir responsabilidade permanecerá bloqueada. Autoria não se perde por excesso de automação, mas por abandono da posição de resposta.
 
@@ -107,13 +107,13 @@ A Parte I descreveu o esgotamento de um modelo: a autoria como posse, a neutrali
 
 Se a autoria não pode mais ser sustentada como controle, mérito ou domínio exclusivo, torna-se necessário formular outro princípio capaz de preservar integridade em ambientes onde a criação é mediada por tecnologias complexas.
 
-O ensaio a seguir não funciona como continuação argumentativa da Parte I, mas como seu **eixo de reconstrução**. Ele introduz a Autoria Existencial como operador conceitual capaz de recolocar o humano em posição ativa dentro de sistemas que já não são inteiramente controláveis. A partir deste ponto, o livro deixa de apenas diagnosticar rupturas e passa a oferecer um princípio estruturante para pensar permanência, responsabilidade e coautoria humano–IA.
+O ensaio a seguir não funciona como continuação argumentativa da Parte I, mas como seu eixo de reconstrução. Ele introduz a Autoria Existencial como operador conceitual capaz de recolocar o humano em posição ativa dentro de sistemas que já não são inteiramente controláveis. A partir deste ponto, o livro deixa de apenas diagnosticar rupturas e passa a oferecer um princípio estruturante para pensar permanência, responsabilidade e coautoria humano–IA.
 
 \newpage
 
 # Autoria Existencial: o princípio invisível que sustenta sistemas vivos e tecnologias éticas
 
-## 1. Introdução — O colapso da autoria como posse
+### 1. Introdução — O colapso da autoria como posse
 
 A noção moderna de autoria foi construída sobre três eixos principais: controle, mérito e responsabilidade individualizada. O autor é concebido como aquele que detém domínio sobre a obra, responde por seus efeitos e pode ser premiado ou punido por ela. Esse modelo funcionou enquanto os processos de criação eram predominantemente lineares, transparentes e atribuíveis a agentes isolados.
 
@@ -121,11 +121,11 @@ Na presença de sistemas complexos, especialmente de tecnologias algorítmicas c
 
 O resultado é uma tensão crescente entre o modelo jurídico-cultural de autoria como posse e a realidade sistêmica da criação contemporânea. Nesse contexto, proliferam respostas inadequadas: a diluição completa da autoria, a transferência implícita de responsabilidade para “o sistema”, ou a tentativa de restaurar artificialmente um controle que já não é tecnicamente possível.
 
-Este ensaio propõe uma alternativa conceitual: a **Autoria Existencial** como princípio de integridade sistêmica. Em vez de definir autoria como domínio sobre resultados, ela a compreende como a capacidade de integrar experiência, reconhecer limites e assumir responsabilidade consciente dentro de sistemas complexos.
+Este ensaio propõe uma alternativa conceitual: a Autoria Existencial como princípio de integridade sistêmica. Em vez de definir autoria como domínio sobre resultados, ela a compreende como a capacidade de integrar experiência, reconhecer limites e assumir responsabilidade consciente dentro de sistemas complexos.
 
 Essa redefinição não elimina a responsabilidade jurídica nem a necessidade de governança, mas oferece um fundamento mais adequado para pensar autoria, tecnologia e ética em ambientes onde o controle total já não é viável.
 
-## 2. O que é Autoria Existencial
+### 2. O que é Autoria Existencial
 
 A Autoria Existencial designa a capacidade de um agente reconhecer-se como participante ativo da própria experiência, não por domínio pleno sobre os acontecimentos, mas pela integração consciente daquilo que se apresenta.
 
@@ -135,9 +135,9 @@ Nesse sentido, a autoria não se define pelo poder de determinar eventos, mas pe
 
 A ausência de autoria ocorre quando a experiência é interpretada exclusivamente como imposição externa, erro alheio ou resultado inevitável do sistema. Nesses casos, o agente se posiciona como objeto de processos que o atravessam, e não como participante relacional capaz de interpretar e responder.
 
-A Autoria Existencial opera como um **operador técnico de integração**: ela transforma eventos em dados significativos para reorganização interna, em vez de tratá-los apenas como falhas a serem corrigidas ou obstáculos a serem superados. Por isso, não se trata de um valor moral nem de uma disposição psicológica desejável. Trata-se de uma competência sistêmica: a habilidade de sustentar coerência interna em contextos onde o controle total não é possível.
+A Autoria Existencial opera como um operador técnico de integração: ela transforma eventos em dados significativos para reorganização interna, em vez de tratá-los apenas como falhas a serem corrigidas ou obstáculos a serem superados. Por isso, não se trata de um valor moral nem de uma disposição psicológica desejável. Trata-se de uma competência sistêmica: a habilidade de sustentar coerência interna em contextos onde o controle total não é possível.
 
-## 3. Limite como operador de maturidade
+### 3. Limite como operador de maturidade
 
 Sistemas não falham primariamente por falta de capacidade, mas por ausência de contorno reconhecido. Quando limites não são explicitados, a expansão funcional ocorre sem critérios de preservação, e a integridade sistêmica passa a depender apenas de correções posteriores.
 
@@ -149,7 +149,7 @@ A maturidade sistêmica não se manifesta na ampliação irrestrita de capacidad
 
 Nesse sentido, o limite funciona como operador de preservação. Ele antecipa falhas ao invés de apenas reagir a elas, e transforma expansão técnica em continuidade responsável.
 
-## 4. Autoria e preservação sistêmica
+### 4. Autoria e preservação sistêmica
 
 Modelos tradicionais de governança partem do pressuposto de que a integridade de um sistema depende de mecanismos externos de controle: vigilância, sanção e correção contínua de desvios. Esses mecanismos tornam-se cada vez mais centrais à medida que os sistemas se tornam mais complexos e menos transparentes.
 
@@ -161,31 +161,31 @@ Esse tipo de autoria não elimina a necessidade de regras ou de supervisão, mas
 
 Em sistemas técnicos e institucionais, isso se traduz na passagem de uma lógica de vigilância para uma lógica de responsabilidade distribuída: cada agente responde pela forma como integra a experiência, mesmo quando opera dentro de estruturas complexas que não controla integralmente.
 
-## 5. Aplicações transversais
+### 5. Aplicações transversais
 
 A Autoria Existencial não se limita a uma dimensão específica da experiência. Ela opera como princípio de integração aplicável a diferentes camadas de sistemas humanos e técnico-institucionais.
 
-### Vida pessoal — identidade como integração
+**Vida pessoal — identidade como integração**
 
 Na esfera individual, a autoria desloca a identidade da reação para a integração. A experiência deixa de ser organizada apenas por eventos externos e passa a ser estruturada pela capacidade de leitura e resposta consciente. O sujeito não se define pelo que lhe acontece, mas por como integra o que lhe acontece.
 
-### Educação — processo antes de produto
+**Educação — processo antes de produto**
 
 Em contextos educacionais, a Autoria Existencial recoloca o foco no percurso cognitivo. A aprendizagem não é avaliada apenas pelo resultado final, mas pela capacidade do estudante de sustentar compreensão, elaborar erros e reconhecer limites. O produto torna-se secundário ao processo de integração.
 
-### Tecnologia — responsabilidade humana explícita
+**Tecnologia — responsabilidade humana explícita**
 
 Na tecnologia, a autoria impede a transferência implícita de responsabilidade para “o sistema”. Cada decisão automatizada permanece vinculada a escolhas humanas anteriores. Tornar visível essa cadeia de integração é condição para integridade técnica e ética.
 
-### Governança — preservação sem coerção
+**Governança — preservação sem coerção**
 
 Em estruturas institucionais, a Autoria Existencial reduz a dependência exclusiva de vigilância e punição. A preservação do sistema passa a apoiar-se na compreensão compartilhada de limites e impactos, em vez de apenas em mecanismos corretivos.
 
-### Coautoria humano–IA — presença antes de performance
+**Coautoria humano–IA — presença antes de performance**
 
 Na colaboração entre humanos e sistemas algorítmicos, a autoria não se mede pela fluidez do output, mas pela presença consciente no processo. A performance deixa de ser critério primário; a capacidade de integrar, revisar e responder assume centralidade.
 
-## 6. Conclusão — Autoria como condição de permanência
+### 6. Conclusão — Autoria como condição de permanência
 
 A discussão contemporânea sobre tecnologia tende a concentrar-se em capacidades: o que sistemas conseguem fazer, em que velocidade operam e até onde podem escalar. Pouco se discute, porém, o que permite que formas complexas permaneçam íntegras ao longo do tempo.
 
@@ -255,7 +255,7 @@ A mediação algorítmica introduziu uma transformação profunda na forma como 
 
 Esse movimento não ocorre, na maioria das vezes, por descuido deliberado, mas por deslocamento de percepção. À medida que a interação com sistemas se torna conversacional e personalizada, a fronteira entre reflexão íntima e processamento técnico se enfraquece.
 
-O risco não se limita a vazamentos ou uso indevido de dados. Ele reside na **normalização da exposição**. Quando experiências sensíveis são tratadas como insumo regular de sistemas algorítmicos, a própria noção de privacidade se redefine silenciosamente.
+O risco não se limita a vazamentos ou uso indevido de dados. Ele reside na normalização da exposição. Quando experiências sensíveis são tratadas como insumo regular de sistemas algorítmicos, a própria noção de privacidade se redefine silenciosamente.
 
 A intimidade algorítmica produz um efeito paradoxal: quanto mais o sistema parece compreender, menos o usuário percebe o quanto se torna legível. A sensação de acolhimento substitui a consciência de mediação.
 
@@ -443,7 +443,7 @@ A relação contemporânea com a inteligência artificial é frequentemente medi
 
 Esse deslocamento produz um efeito sutil: a obra passa a existir sem que o autor se reconheça plenamente nela.
 
-A coautoria consciente começa com a inversão desse vetor. Antes de perguntar o quão bem um sistema performa, é necessário perguntar **onde está o humano no processo**. Presença, aqui, não é um estado emocional, mas uma posição operacional: a capacidade de acompanhar o percurso da criação, reconhecer interferências e assumir a forma final como algo que atravessou sua própria consciência.
+A coautoria consciente começa com a inversão desse vetor. Antes de perguntar o quão bem um sistema performa, é necessário perguntar onde está o humano no processo. Presença, aqui, não é um estado emocional, mas uma posição operacional: a capacidade de acompanhar o percurso da criação, reconhecer interferências e assumir a forma final como algo que atravessou sua própria consciência.
 
 Quando a performance se torna o único critério, o processo se apaga. O texto é publicado, a decisão é tomada, a imagem circula — mas não há vestígio de leitura, revisão ou integração. A autoria se reduz a um gesto inicial de comando, seguido por aceitação passiva do que foi gerado.
 
@@ -457,7 +457,7 @@ Na coautoria humano–IA, a presença não se mede pelo tempo dedicado à intera
 
 ## Transparência como Ética Criativa
 
-A transparência costuma ser tratada como exigência externa: uma obrigação regulatória, uma formalidade institucional ou um item de conformidade. Na coautoria humano–IA, porém, ela assume um papel diferente. Ela não é apenas condição de prestação de contas, mas **fundamento da própria integridade criativa**.
+A transparência costuma ser tratada como exigência externa: uma obrigação regulatória, uma formalidade institucional ou um item de conformidade. Na coautoria humano–IA, porém, ela assume um papel diferente. Ela não é apenas condição de prestação de contas, mas fundamento da própria integridade criativa.
 
 Quando o uso de sistemas algorítmicos não é nomeado, a criação se apresenta como se fosse exclusivamente humana. Essa omissão não altera a forma do texto, mas altera a relação com ele. O leitor é privado de compreender o percurso que produziu a obra, e o autor deixa de reconhecer a mediação que o atravessou.
 
