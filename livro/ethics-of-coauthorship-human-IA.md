@@ -23,7 +23,7 @@ Essas perguntas não pedem soluções imediatas. Elas pedem posição.
 
 *Ethics of Coauthorship* não propõe regras nem receitas de uso. Ele propõe algo mais difícil: a recuperação da autoria como presença. Aqui, a ética não aparece como um conjunto de proibições, mas como a capacidade de sustentar forma, limite e responsabilidade em ambientes onde o controle total já não é possível.
 
-Cada capítulo deste livro examina um ponto de ruptura — a erosão da autonomia cognitiva, a homogeneização da linguagem, a diluição da responsabilidade, a substituição silenciosa do juízo humano. Mas o objetivo não é diagnosticar falhas. É nomear **condições de permanência**.
+Cada capítulo deste livro examina um ponto de ruptura — a erosão da autonomia cognitiva, a homogeneização da linguagem, a diluição da responsabilidade, a substituição silenciosa do juízo humano. Mas o objetivo não é diagnosticar falhas. É nomear condições de permanência.
 
 A pergunta que atravessa estas páginas não é o que a inteligência artificial pode fazer por nós, mas **quem nos tornamos quando criamos com máquinas**. Se esta pergunta ressoa em você, este livro já começou.
 
