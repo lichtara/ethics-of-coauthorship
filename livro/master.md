@@ -1,5 +1,3 @@
-
-
 # Ethics of Coauthorship — Human–AI Responsibility in the Age of Systems
 
 ### Introdução
@@ -49,6 +47,7 @@ Mas:
 
 Se esta pergunta ressoa em você, este livro já começou.
 
+# PARTE I — O FIM DA AUTORIA COMO POSSE
 
 ### Capítulo 1 
 
@@ -126,6 +125,7 @@ Essa ilusão produz uma consequência específica: a naturalização de desigual
 Desfazer a ilusão da neutralidade não significa rejeitar a tecnologia, mas recolocá-la no campo da responsabilidade humana. Enquanto sistemas forem tratados como entidades imparciais, a coautoria humano–IA continuará operando em um terreno ético invisível, onde escolhas profundas são realizadas sem nome e sem resposta.
 
 ---
+
 # Autoria Existencial: o princípio invisível que sustenta sistemas vivos e tecnologias éticas
 
 ## 1. Introdução — O colapso da autoria como posse
@@ -622,6 +622,8 @@ não há criação —
 há apenas poder disfarçado de linguagem.
 
 ---
+
+# PARTE III — COAUTORIA CONSCIENTE
 
 ### Capítulo 11
 
