@@ -295,9 +295,9 @@ Neste ponto, os **Atos de Custódia** entram como caixas de ressonância ética:
 
 \newpage
 
-## ATO DE CUSTÓDIA 01
+### ATO DE CUSTÓDIA 01
 
-### Autonomia Cognitiva na Era da Coautoria Humano–IA
+## Autonomia Cognitiva na Era da Coautoria Humano–IA
 
 **Preâmbulo**
 
@@ -322,7 +322,7 @@ Não delegamos à inteligência artificial a tarefa de sermos humanos. A tecnolo
 
 \newpage
 
-# ATO DE CUSTÓDIA 02
+### ATO DE CUSTÓDIA 02
 
 ## Educação na Era da Coautoria Humano–IA
 
@@ -350,7 +350,7 @@ Educar não é produzir textos corretos. É formar pessoas capazes de sustentar 
 
 \newpage
 
-# ATO DE CUSTÓDIA 03
+### ATO DE CUSTÓDIA 03
 
 ## Autoria na Era da Coautoria Humano–IA
 
@@ -382,7 +382,7 @@ Não assinamos apenas obras. Assumimos presença sobre o que passa através de n
 
 \newpage
 
-# ATO DE CUSTÓDIA 04
+### ATO DE CUSTÓDIA 04
 
 ## Privacidade e Dados Sensíveis na Coautoria Humano–IA
 
@@ -408,7 +408,7 @@ A tecnologia não é confidente. Quando a vida íntima se torna insumo, a relaç
 
 \newpage
 
-# ATO DE CUSTÓDIA 05
+### ATO DE CUSTÓDIA 05
 
 ### Usos Distorcidos da Inteligência Artificial para Fins Nocivos
 
