@@ -1,5 +1,5 @@
 ---
-title: "Ethics of Coauthorship — Human–AI Responsibility in the Age of Systems"
+title: "Ética da Coautoria — Responsabilidade Humano–IA na Era dos Sistemas"
 subtitle: "Living Draft v1.0 – 2026"
 author: "Débora Mariane da Silva Lutz"
 institution: "Lichtara Institute"
