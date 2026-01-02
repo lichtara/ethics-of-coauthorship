@@ -8,19 +8,19 @@ local function is_pagebreak(block)
   local format = string.lower(block.format or "")
   return (format == "latex" or format == "tex")
     and (block.text:match("\\newpage") or block.text:match("\\clearpage"))
-end
+  end
 
-local function last_is_pagebreak(blocks)
-  local last = blocks[#blocks]
-  return last and is_pagebreak(last)
+  local function last_is_pagebreak(blocks)
+    local last = blocks[#blocks]
+    return last and is_pagebreak(last)
 end
 
 local function is_chapter_heading(block)
-  if block.t ~= "Header" or block.level ~= 3 then
+  if block.t ~= "Header" then
     return false
   end
-  local text = pandoc.utils.stringify(block.content)
-  return text:match("^Cap[ií]tulo")
+  local text = pandoc.utils.stringify(block.content):lower()
+  return text:match("^cap")
 end
 
 local function is_part_heading(block)
@@ -62,17 +62,25 @@ function Pandoc(doc)
         table.insert(blocks, pandoc.RawBlock("latex", "\\clearpage"))
       end
       table.insert(blocks, pandoc.RawBlock("latex", "\\thispagestyle{empty}"))
+      table.insert(blocks, pandoc.RawBlock("latex", "\\vspace*{\\fill}"))
       block.content = {pandoc.SmallCaps(block.content)}
       block.classes = block.classes or {}
       table.insert(block.classes, "unnumbered")
+      -- encerra a página da parte centrada verticalmente
+      table.insert(blocks, block)
+      table.insert(blocks, pandoc.RawBlock("latex", "\\vspace*{\\fill}\\clearpage"))
+      goto continue
     end
 
     if chapter then
       if not last_is_pagebreak(blocks) then
         table.insert(blocks, pandoc.RawBlock("latex", "\\clearpage"))
       end
-      block.level = 1 -- eleva capítulos para numerar no sumário
-    elseif block.t == "Header" and block.level == 1 and not intro and not part then
+      local attr = block.attr or pandoc.Attr()
+      block = pandoc.Header(1, block.content, attr) -- eleva capítulos para o nível principal
+      block.classes = block.classes or {}
+      table.insert(block.classes, "unnumbered") -- mantém sem numeração visível
+    elseif block.t == "Header" and block.level == 1 and not intro then
       -- demais headings de nível 1 ficam sem numeração para não interferir no contador
       block.classes = block.classes or {}
       table.insert(block.classes, "unnumbered")

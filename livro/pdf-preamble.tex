@@ -4,18 +4,24 @@
 \setcounter{secnumdepth}{1}
 
 \usepackage{titlesec}
-\titleformat{\section}{\normalfont\bfseries\Large\centering\scshape}{}{0pt}{}
-\titleformat{\subsection}{\normalfont\bfseries\large\centering}{}{0pt}{}
-\titleformat{\subsubsection}{\normalfont\bfseries\Large\centering}{}{0pt}{}
-\titlespacing*{\section}{0pt}{6.5ex plus 2ex minus .2ex}{3.5ex plus .2ex}
-\titlespacing*{\subsection}{0pt}{5.5ex plus 1.5ex minus .2ex}{2.5ex plus .2ex}
-\titlespacing*{\subsubsection}{0pt}{7.5ex plus 2ex minus .2ex}{3ex plus .8ex}
+\titleformat{\section}{\normalfont\bfseries\Large\centering\scshape}{\thesection}{0.8em}{}
+\titleformat{\subsection}{\normalfont\bfseries\large\centering}{\thesubsection}{0.6em}{}
+\titleformat{\subsubsection}{\normalfont\bfseries\Large\centering}{\thesubsubsection}{0.8em}{}
+\titlespacing*{\section}{0pt}{4.2ex plus 1ex minus .2ex}{2.5ex plus .2ex}
+\titlespacing*{\subsection}{0pt}{4.8ex plus 1ex minus .2ex}{2.2ex plus .2ex}
+\titlespacing*{\subsubsection}{0pt}{6.5ex plus 1.5ex minus .2ex}{2.8ex plus .6ex}
 
 \setlength{\parindent}{1.5em}
 \setlength{\parskip}{0pt}
 \setlength{\topskip}{14pt}
 \widowpenalty=10000
 \clubpenalty=10000
+
+\usepackage{tocloft}
+\setlength{\cftbeforesecskip}{0pt}
+\setlength{\cftbeforesubsecskip}{0pt}
+\setlength{\cftbeforesubsubsecskip}{0pt}
+\setlength{\cftparskip}{0pt}
 
 \AtBeginDocument{%
   \hypersetup{
