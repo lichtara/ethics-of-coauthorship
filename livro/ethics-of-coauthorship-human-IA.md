@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Ethics of Coauthorship — Human–AI Responsibility in the Age of Systems"
 subtitle: "Living Draft v1.0 – 2026"
@@ -7,8 +6,6 @@ institution: "Lichtara Institute"
 doi: "10.5281/zenodo.18116717"
 lang: pt-BR
 ---
-
-```
 
 \newpage{}
 
