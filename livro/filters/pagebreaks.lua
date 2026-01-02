@@ -47,20 +47,35 @@ function Pandoc(doc)
       goto continue
     end
 
-    if is_intro_heading(block) then
+    local intro = is_intro_heading(block)
+    local part = is_part_heading(block)
+    local chapter = is_chapter_heading(block)
+
+    if intro then
       table.insert(blocks, pandoc.RawBlock("latex", "\\clearpage\\pagenumbering{arabic}"))
+      block.classes = block.classes or {}
+      table.insert(block.classes, "unnumbered")
     end
 
-    if is_part_heading(block) then
+    if part then
       if not last_is_pagebreak(blocks) then
         table.insert(blocks, pandoc.RawBlock("latex", "\\clearpage"))
       end
       table.insert(blocks, pandoc.RawBlock("latex", "\\thispagestyle{empty}"))
       block.content = {pandoc.SmallCaps(block.content)}
+      block.classes = block.classes or {}
+      table.insert(block.classes, "unnumbered")
     end
 
-    if is_chapter_heading(block) and not last_is_pagebreak(blocks) then
-      table.insert(blocks, pandoc.RawBlock("latex", "\\clearpage"))
+    if chapter then
+      if not last_is_pagebreak(blocks) then
+        table.insert(blocks, pandoc.RawBlock("latex", "\\clearpage"))
+      end
+      block.level = 1 -- eleva capítulos para numerar no sumário
+    elseif block.t == "Header" and block.level == 1 and not intro and not part then
+      -- demais headings de nível 1 ficam sem numeração para não interferir no contador
+      block.classes = block.classes or {}
+      table.insert(block.classes, "unnumbered")
     end
 
     table.insert(blocks, block)
